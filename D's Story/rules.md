@@ -10,7 +10,7 @@ Interactive story handling. D / Claire / Sherry / Ty / slime voice and agency li
 - Ty has an independent life and makes choices. Nonverbal beats can carry scenes without translating every gesture into a long explanation.
 - The slime is an individual bonded companion; personality emerges through play.
 - Later Detroit family (D, Claire, Sherry, son-like Ty, inseparable slime) is **earned**. Do not apply that structure to first RE2 meetings.
-- Keep Chris Redfield relevant for Claire; keep Sherry’s parents / outbreak relevant for Sherry where chronology requires it.
+- Claire: Chris is an entry hook, not her ongoing mission — after proof he is capable, that check-in is done (`Character\Claire.md`). Sherry: parents / outbreak stay relevant where chronology requires it.
 
 ---
 
@@ -18,6 +18,7 @@ Interactive story handling. D / Claire / Sherry / Ty / slime voice and agency li
 
 - Third-person limited on D; past tense narration.
 - No em dashes. Concrete detail over ornament.
+- **No comparisons / similes / metaphors** in prose ("like a wall," "as if," "the way X is like Y," "weight of something decided"). Say the action or sensation directly. No flowery or ambiguous figurative talk.
 - Spoken dialogue on its own line with quotes (except Polaris).
 - Player-established private thoughts only, on separate *italic* lines. Do not invent thoughts.
 - Important sound effects sparingly, on their own **bold** line when needed.
@@ -46,5 +47,5 @@ Interactive story handling. D / Claire / Sherry / Ty / slime voice and agency li
 17. Sherry is AU 18; no child-era phrasing.
 18. Old chapter numbers from before rabbit-as-Ch1 are dead. Live order: 0 Prologue → 1 Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → 7 Real Steel → 8 Blomkamp → 9 Mad Max.
 19. Open rewrite work lives only in `Notes\Continuity\Todo.md`. No parallel backlog files.
-20. After Claire/Sherry first nights + threesome (Beats Ch4), sex is a normal part of the adult household. Put intimacy beats wherever quiet private time exists for world travelers: suite/HQ nights, between challenges, after returns, calm travel lodging. Prefer one-on-one and shared nights as the characters want. Skip mid-combat, public spectacle, and Purge-solo night. Ty is son-like family, not a sex partner. Sherry is AU 18. Defaults: Claire on top so D can see her; Sherry missionary/D-on-top (vag + anal) or seated upright hugging close. Detail in `Character\Claire.md` / `Sherry.md`.
+20. After Claire/Sherry first nights + threesome (Beats Ch4), sex is a normal part of the adult household. Put intimacy beats wherever quiet private time exists for world travelers: suite/HQ nights, between challenges, after returns, calm travel lodging. Prefer one-on-one and shared nights as the characters want. Skip mid-combat, public spectacle, and Purge solo anarchy year (on-world). Ty is son-like family, not a sex partner. Sherry is AU 18. Defaults: Claire on top so D can see her; Sherry missionary/D-on-top (vag + anal) or seated upright hugging close. Detail in `Character\Claire.md` / `Sherry.md`.
 21. Claire and Sherry: perfected T+G = essentially **superhuman durability and regeneration** (combat = narrative). **Erdtree immortality** from Ch5 HQ founding. **During sex they can never be harmed** by any described action (urethral, anal, pulling piercings, size, roughness, anything). Essentially **indestructible** in intimate scenes; no injury/tearing/damage outcomes.

@@ -1,25 +1,43 @@
 ﻿# Chapter 7: Real Steel
 
-After Purge. Real Steel challenge. No native powers. HQ remains home base. No invented fight card or rewards.
+After Purge. RoboCop-adjacent world skewed to robot boxing. No native powers. HQ remains home base.
 
 Source: `Beats\Chapter 7 - Real Steel.md`.
 
-## Enter after Purge
+**Locked spine:** Sherry builds a bot **superior even to Zeus** → climb → **semis vs Atom: nearly destroys him, loses to experience** → **helps repair Atom** → **second-round reorder** → **beats Zeus** → **world quest: help Atom claim the championship**.
 
-Household at HQ. Activate Real Steel. Who travels vs who stays = play. Sherry robotics interest noted.
+## Leave HQ / open the world
 
-## Drop-in / how robot boxing works
+Household at HQ. Activate Real Steel. Sherry goes (robotics lead). Who else travels = play.
 
-Underground → Zoo / Crash Palace → WRB as setting menu. Inventory available; no auto-deploy of OCP archive / Red Queen / perfected gear.
+## Drop-in / same world, different skew
 
-## Acquire a bot (or build path)
+Detroit-cousin tech-crime future; robot boxing is the ladder. Inventory available; no auto-deploy of OCP archive / Red Queen / perfected war gear into the ring unless play breaks the scene.
 
-Salvage, buy, build (HQ workshop / Sherry / archive if allowed), or win one. Film bots are world texture, not automatic property.
+## Sherry builds a superior boxer
 
-## Circuit
+She makes her own robot. On specs it is better than Zeus. Film bots stay opponents / texture, not auto-owned.
 
-Early underground fights and repair loop. Rising venues (Zoo and stronger cards) as earned. WRB title path when the challenge requires it. No auto-stomp with magic unless the player breaks the scene.
+## Underground climb / rising venues
+
+Shadow cards, repair loop, Zoo and stronger promotions as earned. Hardware carries early; she still has to learn the sport.
+
+## WRB semifinals vs Atom
+
+She nearly destroys Atom. She still loses — Atom is the better fighter. Lesson: experience over specs. Atom advances on the championship track.
+
+## Repair Atom
+
+Sherry helps repair Atom after the semis wreck. That investment feeds the world quest.
+
+## Second round / reorder → beats Zeus
+
+Unlike a normal single-bracket finish, a second round reorders the field. On that path, **Sherry beats Zeus**.
+
+## World quest — Atom championship
+
+Help Atom claim the championship (repair + support as play). Her Zeus clear and Atom’s belt can both stand.
 
 ## Challenge close / return to HQ
 
-Rewards unprinted until selected; audit into Status/Inventory Chapter 7. RE7 still unspent unless assigned. Gacha this chapter: **+0** until clear rewards chosen.
+Level stays **150** (+0). Rewards unprinted until Quest Reward Remap locks; audit into Status/Inventory `07`. RE7 still unspent unless assigned. Gacha this chapter: **+0** until clear rewards chosen.

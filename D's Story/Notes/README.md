@@ -15,6 +15,7 @@ Standing house rules for play/prose: `D's Story\rules.md`.
 | `Continuity\Timeline.md` | Locked chapter order |
 | `Continuity\Todo.md` | Open work + locked RE2 standing rules |
 | `Continuity\Ideas.md` | Parking lot only |
+| `Continuity\Quest Reward Remap.md` | Tavish → D clear-package remap (working) |
 
 Opening / rabbit ID: `Beats\Chapter 0–1`, `Status - 00/01`, `Inventory - 01`, `References\World Specific\01 Horned Rabbit ID\World info.md`.
 

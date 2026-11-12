@@ -254,7 +254,7 @@ Enter the **P-4 Level Testing Lab**. Claire reaches the antiviral storage and us
 
 The rear of the fleeing train shudders as William Birkin returns in his final mutation, G5. His enormous mass advances through the carriage. The three survivors have only one train and one chance to escape; whether D helps fight, uncouple the rear car or take another action is the player’s choice.
 
-**The final shared event:** As the evacuation train departs, William returns in G5 form in the rear car. D, Claire and Sherry confront the danger together according to the player's decisions. The rear car is uncoupled, the train exits the doomed underground complex, and the survivors reach the road outside the city at daybreak. Claire still intends to find Chris. Sherry's questions and D's response are left to live play.
+**The final shared event:** As the evacuation train departs, William returns in G5 form in the rear car. D, Claire and Sherry confront the danger together according to the player's decisions. The rear car is uncoupled, the train exits the doomed underground complex, and the survivors reach the road outside the city at daybreak. Claire may want word of Chris (entry hook only — not her character engine; see `Character\Claire.md`). Sherry's questions and D's response are left to live play.
 
 ## Challenge close — Companion Token and return
 

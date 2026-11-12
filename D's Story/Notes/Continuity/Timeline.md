@@ -222,27 +222,33 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 - Founding grove planted; he makes his own nature land
 - Status / Inventory: `Status - 05`, `Inventory - 05`
 - Level stays **100** (+0)
-- Next: Purge solo (household stays at HQ)
+- Next: Purge solo — Level 100 difficulty spike; global anarchy year (household stays at HQ)
 
 ---
 
 ## Chapter 6 — The Purge
 
-`Story\Chapter 6.md` — After HQ open. Solo. Survive Purge Night.
+`Story\Chapter 6.md` — After HQ open. Solo.
 
-- Party / loadout from RoboCop close; household at HQ
+- **Level 100** raises overall difficulty
+- Mixed **Purge-movie + war** world; **global anarchy ~1 year** (not one soft night)
+- Household at HQ; loadout from RoboCop close
 - Clear level: **100 → 150** (**+50**); wave 2 → **50/100**; **LCK 1,016**
-- Rewards unprinted until selected
+- Rewards unprinted until Quest Reward Remap locks
 - Status / Inventory: `Status - 06`, `Inventory - 06`
 
 ---
 
 ## Chapter 7 — Real Steel
 
-`Story\Chapter 7.md` — After Purge. HQ home base.
+`Story\Chapter 7.md` — After Purge. HQ home base. RoboCop-adjacent world skewed to robot boxing.
 
+- **Sherry** builds a boxer **superior even to Zeus** (specs); Atom is the better fighter
+- Semifinals: **nearly destroys Atom, still loses** (experience over hardware); she **helps repair Atom**
+- **Second round** reorders the field; **Sherry beats Zeus**
+- **World quest:** help **Atom claim the championship**
 - Clear level: stays **150** (**+0**); wave 2 still **50**; **LCK 1,016**
-- Rewards unprinted until selected
+- Rewards unprinted until Quest Reward Remap locks
 - Status / Inventory: `Status - 07`, `Inventory - 07`
 - RE7 token still unspent unless assigned
 - Next: **Chapter 8 Blomkamp**

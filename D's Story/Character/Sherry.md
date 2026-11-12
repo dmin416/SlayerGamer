@@ -182,7 +182,7 @@ With her he acts like a magician and never fully hides it.
 
 This rewritten RE2 character profile is preserved as a **historical and personality source**, including its original framing. Its statements that the multiverse invitation is unplayed or that the character is still on the Raccoon City train are now **historical**, not the live scene. The character voluntarily accompanied D to **Detroit (combined RoboCop world, November 2033)**.
 
-**Claire:** learned Telekinesis, Shadowstep (won rock-paper-scissors for Shadowstep), and First Aid; perfected T+G → essentially superhuman durability/regen; Stardrop 2× stamina regen; Erdtree immortality at Ch5 HQ. Sex indestructible. Close and affectionate with D and Sherry; still interested in weapons, motorcycles and finding Chris. No system level.
+**Claire:** learned Telekinesis, Shadowstep (won rock-paper-scissors for Shadowstep), and First Aid; perfected T+G → essentially superhuman durability/regen; Stardrop 2× stamina regen; Erdtree immortality at Ch5 HQ. Sex indestructible. Close and affectionate with D and Sherry; weapons and motorcycles stay. Chris is secondary — after proof he is capable, that mission is complete (`Claire.md`). No system level.
 
 **Sherry (18 in this AU):** learned Barrier Shield, Electronics and Lockpicking; Vault Boy Medicine Bobblehead; compact quadruped robot with removable external neural interface. Perfected T+G → essentially superhuman durability/regen; Stardrop 2× stamina regen; Erdtree immortality at Ch5 HQ. Sex indestructible. No system level.
 

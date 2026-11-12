@@ -16,12 +16,14 @@
 | Age | 21 |
 | Physical | Auburn hair in a ponytail. Stormy grey eyes. Punk. Motorcyclist. Red vest, white crop top, bright blue jeans, gloves, steel-toed boots, collar. Nipple rings, her only piercings at the start |
 | World | Resident Evil. Raccoon City |
-| Role | Arrives looking for her brother Chris. Gas station, then the RPD, then Sherry and NEST |
+| Role | RE2 arrival: gas station → RPD → Sherry / NEST. Checking on brother Chris is the **entry hook**, not her core character |
 | Present | Enters Chapter 3 (RE2). Lives Chapter 4 household (books, Aff 50/100, intimacy per Beats). Scrub Mad Max / wrong-order if found. Train / invitation-unplayed = historical only |
 
 Outfit on the page: red vest, white crop top, bright blue jeans, collar, gloves, steel-toed boots, auburn ponytail. Not shorts. Not the classic outfit. Not the remake jacket.
 
-Arrives at Mizoil on a red motorcycle, which gets left at the pumps. She is looking for her brother Chris Redfield, a Raccoon City police officer she has not heard from. Keep her actions on the remake, plus the direct consequences of D being there. Saved at the store. Separated by the crash. They meet again at the station, stay together until Mr. X splits them, and meet again at the sewer cable car. She gives Sherry the DEVIL antiviral. Annette dies after they try ordinary care. She and D destroy the original Mr. X on the lift and Birkin's last form on the train. After the city she is still looking for Chris.
+Arrives at Mizoil on a red motorcycle, which gets left at the pumps. She came to Raccoon for word of her brother **Chris Redfield** (S.T.A.R.S.; she has not heard from him) — that search is **secondary** to who she is: independent, practical, protective, her own life. Keep her actions on the remake, plus the direct consequences of D being there. Saved at the store. Separated by the crash. They meet again at the station, stay together until Mr. X splits them, and meet again at the sewer cable car. She gives Sherry the DEVIL antiviral. Annette dies after they try ordinary care. She and D destroy the original Mr. X on the lift and Birkin's last form on the train.
+
+**Chris mission (locked):** Finding Chris is **less important** than her own character, bonds, and choices. Once she is given **proof he is awesome / capable** (alive and handling himself — not a helpless missing sibling), she is **less concerned about his well-being**; that check-in is **mission complete**. Do not write her as defined by an ongoing crusade to locate or babysit Chris. Word of him later is fine; it is not her driving plot.
 
 ## Status
 
@@ -62,10 +64,10 @@ Related Chapter 4+ notes (not books): voluntary perfected T+G; Stardrop share �
 - Independent, practical, observant, protective; initiative under pressure. Ambivert: warm and teasing with people she chooses; reserved with strangers or when uncomfortable.
 - Bold style ≠ open access. She controls how she is seen; teasing and thrill-seeking have their own pace; quieter intimacy is separate.
 - Speech: direct, casual complete sentences with contractions. Humor, warmth, irritation, anger as fit — no stock quips.
-- Looking for **Chris** must not vanish because of romance or crossover.
+- **Chris is not her character engine.** Romance / crossover / household do not need a parallel “still hunting Chris” subplot. After proof he is capable, drop the worry-mission.
 - Can fight, investigate, plan, ride, assess, protect. Never a passive prize or dependent companion.
 - Bond with D and Sherry grows through shared events; do not announce relationship labels early or from one gesture.
-- Later Detroit: voluntary household with D and Sherry; motorcycles and finding Chris remain. She keeps her own opinions on OCP, police, gear, and D’s choices.
+- Later Detroit: voluntary household with D and Sherry; motorcycles, gear, her own opinions on OCP and police. Not a continuing Chris-search arc.
 - Intimate piercings stay private and context-appropriate, not a recurring narration focus.
 
 ### Sex / kink (adult; after first night)
@@ -183,7 +185,7 @@ The seal reads to her as a game rule, and it fits her thrill seeking: he chooses
 
 This rewritten RE2 character profile is preserved as a **historical and personality source**, including its original framing. Its statements that the multiverse invitation is unplayed or that the character is still on the Raccoon City train are now **historical**, not the live scene. The character voluntarily accompanied D to **Detroit (combined RoboCop world, November 2033)**.
 
-**Claire:** learned Telekinesis, Shadowstep (won rock-paper-scissors for Shadowstep), and First Aid; perfected T+G → essentially superhuman durability/regen; Stardrop 2× stamina regen; Erdtree immortality at Ch5 HQ. Sex indestructible. Close and affectionate with D and Sherry; still interested in weapons, motorcycles and finding Chris. No system level.
+**Claire:** learned Telekinesis, Shadowstep (won rock-paper-scissors for Shadowstep), and First Aid; perfected T+G → essentially superhuman durability/regen; Stardrop 2× stamina regen; Erdtree immortality at Ch5 HQ. Sex indestructible. Close and affectionate with D and Sherry; weapons and motorcycles stay. Chris check-in is secondary; after proof he is capable, that mission is complete — she is not defined by worrying about him. No system level.
 
 **Sherry (18 in this AU):** learned Barrier Shield, Electronics and Lockpicking; Vault Boy Medicine Bobblehead; compact quadruped robot with removable external neural interface. Perfected T+G → essentially superhuman durability/regen; Stardrop 2× stamina regen; Erdtree immortality at Ch5 HQ. Sex indestructible. No system level.
 

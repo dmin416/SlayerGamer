@@ -14,7 +14,7 @@ Open work only. Delete a line when it’s done. No done-lists.
 - RE2 start: civilian street kit; Gamer inventory still available.
 - Early Claire: shutter/gate save; D clears exterior; front entry. No heli/iron-gate reunion.
 - Rabbit loot: harvest only; **Rare Pan**; WSRSF only. No goblin/rabbit weapons.
-- After Ch4 first nights + threesome: adult household sex on quiet private beats while traveling (see `rules.md` §20–21). Not during Purge Night. Ty is not a sex partner. Claire/Sherry: T+G superhuman durability/regen + Erdtree immortality (Ch5); **sex = never harmed / essentially indestructible**.
+- After Ch4 first nights + threesome: adult household sex on quiet private beats while traveling (see `rules.md` §20–21). Not on-world during Purge **anarchy year** (solo lock). Ty is not a sex partner. Claire/Sherry: T+G superhuman durability/regen + Erdtree immortality (Ch5); **sex = never harmed / essentially indestructible**.
 
 ## Spend / decide
 
@@ -38,6 +38,7 @@ Open work only. Delete a line when it’s done. No done-lists.
 
 ## Audit / chapter fill
 
+- [ ] **Quest Reward Remap** — work in `Continuity\Quest Reward Remap.md`; lock Purge → Mad Max packages from Tavish clears
 - [ ] Per-chapter kill counts + kill tokens (**Luck/200**) + kill boxes (**Luck/10000**); box/open ledger wins if printed (Ch1 rabbit done)
 - [ ] Ch3 companion-close loot notes after that audit
 - [ ] Ch3 remake night — finish play/prose vs Beats party pattern + remake outline

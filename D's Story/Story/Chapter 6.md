@@ -1,39 +1,33 @@
 ﻿# Chapter 6: The Purge
 
-After RoboCop finished (Story Chapter 4) and Multiverse HQ opened (Story / Beats Chapter 5). Survive **Purge Night**. Solo. No invented movie plot.
+After HQ open. Solo. **Level 100** raises world difficulty into a mixed Purge-movie **war** board: **global anarchy for about a year**.
 
 Source: `Beats\Chapter 6 - The Purge.md`.
 
 ## Decision / leave HQ
 
-HQ is live (void mini-planet + founding grove). Purge world was already revealed in the RoboCop arc. D enters **alone**. Claire, Sherry, Ty, and the slime stay at **HQ**.
+HQ is live. Purge world already revealed in the RoboCop arc. D enters **alone**. Household stays at HQ. Goodbye intimacy before drop if play wants it.
 
-## Arrival / Rules of the Night
+## Drop-in / world already wrong
 
-Arrive before or as the night begins (city from play). Siren / broadcast: all crime legal for the window. Inventory available; do not auto-dump the vault. Loadout from RoboCop close as the player chooses (Perfected Auto-9, Defender, Aff perks, etc.).
+Not a soft one-city Purge Night. Broadcasts and sirens exist as texture; the collapse is **worldwide**. Inventory available; do not auto-dump the vault. Loadout from RoboCop close as the player chooses.
+
+## Difficulty spike
+
+His level scales the instance: denser warzones, harder factions, longer anarchy. Mixed Purge films + open war as setting menu. No forced Sandin / Roan plot. No native powers.
 
 ## Party
 
-**Solo lock.** Household at HQ. No Claire / Sherry / Ty / slime on the street for this challenge.
+**Solo lock.** No Claire / Sherry / Ty / slime on-world for this challenge.
 
-## Purge Night
+## Year of global anarchy
 
-### First hour / find footing
+Survive / move / hunt / help / refuse across a **~year** of global crazy. Peak crises as play demands. Saving people is optional.
 
-Siren falls. Secure a position. Hunt vs hide vs help are player choices. No forced Sandin / Roan plot unless play goes there.
+## Year ends / leave
 
-### Survive the night
+Challenge clear when the year (or system clear) lets him out. Note what was taken / used / refused.
 
-One continuous night. Stop at meaningful choices. World has **no native powers**. Aff perks only if matching faction types appear (rebels / responders / scientists / monster hunters as relevant).
+## Challenge close / return to HQ
 
-### Mid-night crisis
-
-Peak violence. Solo lock holds. Saving people is optional, not required.
-
-### Dawn / siren ends
-
-Night ends. Aftermath. Note what was taken / used / refused.
-
-## Challenge Close / Return
-
-Rewards unprinted until selected; audit later into Status/Inventory Chapter 6. Return to HQ. Next: **Chapter 7 Real Steel**. RE7 still unspent unless assigned.
+Level **100 → 150** (+50). Rewards unprinted until Quest Reward Remap locks. Return to HQ. Next: **Chapter 7 Real Steel**.
