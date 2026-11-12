@@ -1,6 +1,6 @@
 # Beats — Chapter 7: Real Steel
 
-**Live order:** 0 Prologue → 1 Horned Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → **7 Real Steel** → 8 Blomkamp → 9 Mad Max.  
+**Live order:** 0 Prologue → 1 Horned Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → **7 Real Steel** → 8 Blomkamp 1 → 9 Blomkamp 2 → 10 Mad Max 1 → 11 Mad Max 2.  
 Story: `Story\Chapter 7.md`. Status/Inventory: `07`.  
 **World:** Same tech-crime near-future family as **RoboCop / Detroit**, skewed hard toward **robot boxing** (underground → Zoo / Crash Palace → WRB). Not a separate “magic” world. No native powers (Guide §45).  
 **Party:** Not locked solo. **Sherry** builds and pilots/controls her own robot boxer. Claire / Ty / slime / D travel or HQ as play.  
@@ -75,4 +75,4 @@ Gacha: `Notes\References\Original Rewards\gacha-rules.md`.
 - Clear level: stays **150** (**+0**). Wave 2 still **50**. Other rewards unprinted until Remap locks
 - **Gacha this chapter:** **+0** until Real Steel clear rewards chosen. Running carry: `Inventory\Inventory - 07`
 - Home-base reunion if the household split for the circuit
-- Next: **8 Blomkamp** (**+50** → 200) → **9 Mad Max** (**+50** → 250)
+- Next: **8 Blomkamp 1** (**+50** → 200) → **9 Blomkamp 2** (**+25** → 225) → **10 Mad Max 1** (**+25** → 250) → **11 Mad Max 2** (**+25** → 275)

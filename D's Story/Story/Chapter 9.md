@@ -1,9 +1,19 @@
-﻿# Chapter 9 — Mad Max
+﻿# Chapter 9: Blomkamp 2
 
-After Blomkamp. Later visit. Lottery home was always RoboCop; Mad Max was never started as home.
+After Blomkamp 1. Second Blomkamp challenge. **Title TBD** (remaining film after Ch8 pick).
 
-**Level on clear:** **200 → 250** (**+50**).
-**Classes:** Wave 3 **Elementalist / Planewalker / Runesmith → 50/100**.
-**Attrs:** Recalc from Status-04 + Timeline per-class gains + racial (`Timeline.md`).
+Source: `Beats\Chapter 9 - Blomkamp 2.md`.
 
-Prose / beats / Status / Inventory stubs until filled.
+**Level on clear:** **200 → 225** (**+25**).
+
+## Leave HQ / open
+
+Activate second Blomkamp world. Who travels = play.
+
+## Challenge spine
+
+Fill when title locked. No invented plot before that.
+
+## Challenge close / return to HQ
+
+Rewards unprinted until Quest Reward Remap locks. Next: **Chapter 10 Mad Max 1** → **11 Mad Max 2**.

@@ -103,8 +103,10 @@ Chef: +5 Dex, Str and +2 Luck per level.
 | Ch5 HQ | **100** | Pacifist / reward-open **+0** |
 | Ch6 Purge clear | **150** | **+50** |
 | Ch7 Real Steel clear | **150** | **+0** |
-| Ch8 Blomkamp clear | **200** | **+50** |
-| Ch9 Mad Max clear | **250** | **+50** (later visit; not lottery home) |
+| Ch8 Blomkamp 1 clear | **200** | **+50** (title TBD) |
+| Ch9 Blomkamp 2 clear | **225** | **+25** (title TBD) |
+| Ch10 Mad Max 1 clear | **250** | **+25** (title TBD; not lottery home) |
+| Ch11 Mad Max 2 clear | **275** | **+25** (title TBD) |
 
 Shared XP through RoboCop across Arcanist / Ard-draoi / Chef. After 100, maxed classes stay put; character level climbs on assigned clear bumps.
 

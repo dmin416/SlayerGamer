@@ -15,5 +15,5 @@ Carry from `Status - 04`. Creation lock unchanged: Aeromancy; Druid Magic / Bark
 
 - Private world unlocked at RE2; **opened** here
 - Grove roles scale with growth on the page
-- Next: Purge solo (+50 → 150; household at HQ) → Real Steel (+0) → Blomkamp (+50 → 200) → Mad Max (+50 → 250)
+- Next: Purge solo (+50 → 150; household at HQ) → Real Steel (+0) → Blomkamp 1 (+50 → 200) → Blomkamp 2 (+25 → 225) → Mad Max 1 (+25 → 250) → Mad Max 2 (+25 → 275)
 - Live beats: `Beats\Chapter 5 - HQ.md`

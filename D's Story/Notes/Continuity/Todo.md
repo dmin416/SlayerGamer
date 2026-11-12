@@ -6,7 +6,7 @@ Open work only. Delete a line when it’s done. No done-lists.
 
 ## Standing rules (locked)
 
-- **Level curve:** 1 → 9 → 9 → **34** → **100** (RoboCop) → HQ **+0** → Purge **+50** (150) → Real Steel **+0** (150) → Blomkamp **+50** (200) → Mad Max **+50** (250). Later combat: +25/+50 when assigned; pacifist **+0**. See `Timeline.md`.
+- **Level curve:** 1 → 9 → 9 → **34** → **100** (RoboCop) → HQ **+0** → Purge **+50** (150) → Real Steel **+0** (150) → Blomkamp 1 **+50** (200) → Blomkamp 2 **+25** (225) → Mad Max 1 **+25** (250) → Mad Max 2 **+25** (275). Later combat: +25/+50 when assigned; pacifist **+0**. See `Timeline.md`.
 - **Class slots (Iris):** W1→W6 locked on `Timeline.md` (Gunmage/Technodruid/Alchemist … Druid/Biomancer/Artificer). **Per-class stat gains** locked there (LCK-only dump superseded). Racial +5 WIS/END/INT per character level. Post-100 full attr sheets = recalc on audit.
 - RE2 = 2019 remake map / puzzles / items / beats over 1998.
 - Ch3 night: short remake evening; long freeform cut (Ideas → RE world token). Party pattern: split at car before blast → lobby reunion when Claire needs help → Mr. X separates them again → Irons can take Sherry → join back up later.
@@ -24,7 +24,8 @@ Open work only. Delete a line when it’s done. No done-lists.
 - [ ] **Rare preference** — T-1000 Companion gem when a Rare is spent
 - [ ] **Fab alternative** — grove / Umbrella-NEST / OCP archive / Red Queen / slime / Chef complex
 - [ ] **Tribute perk rolls ×2** — pending post-RoboCop; do not invent outcomes
-- [ ] **Blomkamp title** — Ch8; pick District 9 / Elysium / Chappie / other
+- [ ] **Blomkamp titles** — Ch8 + Ch9; pick **two** of District 9 / Elysium / Chappie and order them
+- [ ] **Mad Max titles** — Ch10 + Ch11; pick which two Mad Max films / eras and order them
 - [ ] **Name the slime**
 - [ ] **Perfected Motorcycle Vehicle Token** — activate or leave parked
 - [ ] **RE7 challenge token** — still unspent; place when you want
@@ -38,11 +39,11 @@ Open work only. Delete a line when it’s done. No done-lists.
 
 ## Audit / chapter fill
 
-- [ ] **Quest Reward Remap** — work in `Continuity\Quest Reward Remap.md`; lock Purge → Mad Max packages from Tavish clears
+- [ ] **Quest Reward Remap** — work in `Continuity\Quest Reward Remap.md`; lock Purge → Mad Max 2 packages from Tavish clears
 - [ ] Per-chapter kill counts + kill tokens (**Luck/200**) + kill boxes (**Luck/10000**); box/open ledger wins if printed (Ch1 rabbit done)
 - [ ] Ch3 companion-close loot notes after that audit
 - [ ] Ch3 remake night — finish play/prose vs Beats party pattern + remake outline
 - [ ] Ch5 grove growth on the page (benefits stay aspirational until grown)
 - [ ] Purge / Real Steel rewards → fill Status-06/07 + Inventory-06/07
-- [ ] Ch8 Blomkamp + Ch9 Mad Max — Beats / Status / Inventory stubs
+- [ ] Ch8–9 Blomkamp spines + Ch10–11 Mad Max spines — fill when titles locked (stubs exist)
 - [ ] Timeline hygiene — Ch7 (and any other stubs) still show old LCK-only dump numbers; scrub to match gain-table recalc

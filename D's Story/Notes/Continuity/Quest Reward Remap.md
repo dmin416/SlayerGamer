@@ -12,7 +12,7 @@ Mark rows **LOCKED** / **PROPOSED** / **PARKED**. Edit here, then push into Beat
 
 D is **Ard-draoi / Arcanist / Chef** (wave 2: Ranger / Gourmancer / Enchanter) — not a Doom Slayer. Interests: plants, gardening, animals/companions/symbiotes, cooking, grove land, Aff/Bond, tech that serves life (not rage kits).
 
-**Luck:** creation LCK **77** → RE2 **149** (Double or Nothing) → RoboCop close **281** → Timeline Purge ~**1,016** / Blomkamp ~**1,766** / Mad Max ~**2,501**. Kill tokens (Luck/200) and boxes (Luck/10000) will already rain in later worlds. Clear packages should lean **nature / companion / craft / land**, not “another Common dump to compensate for bad Luck,” and should avoid Slayer / wrath / god-kill toys.
+**Luck:** creation LCK **77** → RE2 **149** (Double or Nothing) → RoboCop close **281** → Timeline Purge ~**1,016** / Blomkamp 1 ~**1,766** / Blomkamp 2 ~**2,134** / Mad Max 1 ~**2,501** / Mad Max 2 ~**2,869**. Kill tokens (Luck/200) and boxes (Luck/10000) will already rain in later worlds. Clear packages should lean **nature / companion / craft / land**, not “another Common dump to compensate for bad Luck,” and should avoid Slayer / wrath / god-kill toys.
 
 **Ch1–5 stay as locked.** Only Ch6+ need help.
 
@@ -20,7 +20,7 @@ D is **Ard-draoi / Arcanist / Chef** (wave 2: Ranger / Gourmancer / Enchanter) �
 
 ## Visit order (D)
 
-0 Prologue → 1 Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → 7 Real Steel → 8 Blomkamp → 9 Mad Max
+0 Prologue → 1 Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → 7 Real Steel → **8 Blomkamp 1** → **9 Blomkamp 2** → **10 Mad Max 1** → **11 Mad Max 2**
 
 ---
 
@@ -37,9 +37,9 @@ D is **Ard-draoi / Arcanist / Chef** (wave 2: Ranger / Gourmancer / Enchanter) �
 
 ---
 
-## PROPOSED (Ch6–9) — druid-leaning remaps
+## PROPOSED (Ch6–10) — druid-leaning remaps
 
-XP on these rows: Timeline already gives Purge **+50**, Real Steel **+0**, Blomkamp **+50**, Mad Max **+50**. Default = **omit** Tavish XP from the clear package (kill XP / sheets handle level). Change a cell if you want banked XP instead.
+XP on these rows: Timeline already gives Purge **+50**, Real Steel **+0**, Blomkamp 1 **+50**, Blomkamp 2 **+25**, Mad Max 1 **+25**, Mad Max 2 **+25**. Default = **omit** Tavish XP from the clear package (kill XP / sheets handle level). Change a cell if you want banked XP instead.
 
 ### Ch6 — The Purge (solo; Level 100 → global anarchy year)
 
@@ -69,28 +69,49 @@ High Luck note: a full anarchy year will rain kill tokens/boxes; clear package s
 | **XP** | **omit** (Timeline +0; Real Steel is craft/prestige night) |
 | **Status** | PROPOSED — decide merge vs two clears |
 
-### Ch8 — Blomkamp (title still open on Todo)
+### Ch8 — Blomkamp 1 (title TBD)
 
 | | |
 | --- | --- |
-| **Tavish source (prefer)** | **Would you kindly?** (Rapture) — sanctuary / bio / underclass care fits D9–Elysium–Chappie better than Columbia angels |
+| **Tavish source (prefer)** | **Would you kindly?** (Rapture) — sanctuary / bio / underclass care |
 | **Tavish verbatim** | Little Sister Nursery; Rapture blueprint bundle; Portal unlocked; Big Daddy perk upgrades; Con-man; new perk set |
-| **Proposed D package** | Nursery → **Sanctuary / refuge plot** (D9: prawn haven; Elysium: open med access garden; Chappie: AI cradle garden — pick with title); Rapture blueprints → **Blomkamp biotech / fab bundle** (life-support, med, symbiote-friendly; can feed HQ grove fab); Portal unlocked → keep (HQ gate); Big Daddy upgrades → **Protector Bond / Aff growth** (guardian of dependents, not ADAM tank); **Con-man → drop** or soft social; new perk set → **nature/bio Aff set** (name when title locked) |
-| **Alt source** | Columbia (**Salvation of the Lamb**): keep **Master Craftsman** (Enchanter/Gourmancer craft); Sentinel Shield → **Grove / Bark Shield**; Maykr/Columbia tech → living-tech bundle; Portal keep. Use if you want craft-heavy Ch8 instead of sanctuary. |
-| **Avoid** | ADAM addiction toys as core identity; Slayer “purge the city” framing |
+| **Proposed D package** | Nursery → **Sanctuary / refuge** flavored to locked title; biotech / fab bundle; Portal → HQ gate; Protector Bond / Aff; drop Con-man; nature/bio Aff set |
+| **Avoid** | ADAM toys as identity; Slayer purge framing |
 | **XP** | **omit** (Timeline +50) |
-| **Status** | PROPOSED — lock Blomkamp title first |
+| **Status** | PROPOSED — lock which film is Ch8 |
 
-### Ch9 — Mad Max (wasteland; later visit)
+### Ch9 — Blomkamp 2 (title TBD)
 
 | | |
 | --- | --- |
-| **Tavish source (prefer)** | **Hungry Like the Wolf!** numbers + optional **Hero of Gluttony** Chef lean |
-| **Tavish verbatim** | Wolf: Race First Werewolf (Epic); Silver Dagger (U); Pelt of Lycaon (L); Wolf Loot Box (Epic). Pig God: Gourmet World ID; Restaurant front-door enchant; **Hell’s Kitchen** |
-| **Proposed D package** | **Werewolf race → drop** (not D). Replace race slot with **Beast Bond / wild companion preference** (quest/world companion gem lean, or Bond +X — pick) or **legendary beast cloak/pelt** as Ard-draoi kit (pelt kept, race gone). Silver Dagger → **ritual / harvest blade** (Chef/grove tool) or scrap. Wolf Loot Box (Epic) → **Epic nature/beast crate** (same rarity slot). **Optional Chef add (Pig God perk lines only):** **Hell’s Kitchen**; Restaurant enchant → **HQ kitchen front-door** (feeds Gourmet/Gourmancer); Gourmet ID only if you want a food Instant Dungeon later |
+| **Tavish source (prefer)** | Columbia (**Salvation of the Lamb**) or leftover Rapture pieces / Sister’s Savior |
+| **Tavish verbatim** | Columbia Tech Bundle; Maykr machine pack; Sentinel Shield; Master Craftsman; Portal unlocked |
+| **Proposed D package** | **Master Craftsman** keep; Sentinel Shield → **Grove / Bark Shield**; living-tech / med / AI bundle per title; Portal keep if not already from Ch8 |
+| **Avoid** | Duplicate Portal if already granted Ch8 |
+| **XP** | **omit** (Timeline +25) |
+| **Status** | PROPOSED — lock which film is Ch9 |
+
+### Ch10 — Mad Max 1 (wasteland; later visit)
+
+| | |
+| --- | --- |
+| **Tavish source (prefer)** | **Hungry Like the Wolf!** numbers |
+| **Tavish verbatim** | Wolf: Race First Werewolf (Epic); Silver Dagger (U); Pelt of Lycaon (L); Wolf Loot Box (Epic) |
+| **Proposed D package** | **Werewolf race → drop**. Beast Bond / pelt cloak; ritual/harvest blade or scrap; Epic nature/beast crate |
 | **Avoid** | Forced lycanthropy; Slayer wasteland conqueror set |
-| **XP** | **omit** (Timeline +50) |
-| **Status** | PROPOSED |
+| **XP** | **omit** (Timeline +25) |
+| **Status** | PROPOSED — lock which film is Ch10 |
+
+### Ch11 — Mad Max 2 (wasteland; second visit)
+
+| | |
+| --- | --- |
+| **Tavish source (prefer)** | leftover Wolf pieces and/or **Hero of Gluttony** Chef lean |
+| **Tavish verbatim** | Pig God: Gourmet World ID; Restaurant front-door enchant; **Hell’s Kitchen** (+ any Wolf leftovers not used Ch10) |
+| **Proposed D package** | Optional: **Hell’s Kitchen** + HQ kitchen front-door; craft/road survival lean per locked title |
+| **Avoid** | Duplicate Beast Bond if already Ch10; Slayer conqueror set |
+| **XP** | **omit** (Timeline +25) |
+| **Status** | PROPOSED — lock which film is Ch11 |
 
 ---
 
@@ -128,9 +149,10 @@ _Pick these so rows can go LOCKED._
 2. **Purge:** take **Aspect of Nature** here? (recommended)
 3. **Real Steel:** one merged clear or Race objective + Machine objective?
 4. **Real Steel:** ODST → **drop** or **Grove plating**?
-5. **Blomkamp title:** District 9 / Elysium / Chappie / other?
-6. **Blomkamp:** Rapture sanctuary slot vs Columbia craft slot?
-7. **Mad Max:** pelt+Epic box+Beast Bond, and add **Hell’s Kitchen** + HQ kitchen door?
+5. **Blomkamp pair + order:** which two of District 9 / Elysium / Chappie = Ch8 vs Ch9?
+6. **Blomkamp 1 vs 2 packages:** Rapture sanctuary on which; Columbia craft on which?
+7. **Mad Max pair + order:** which two films / eras = Ch10 vs Ch11?
+8. **Mad Max 1 vs 2 packages:** Wolf/Beast Bond on which; **Hell’s Kitchen** + HQ kitchen door on which?
 
 ---
 

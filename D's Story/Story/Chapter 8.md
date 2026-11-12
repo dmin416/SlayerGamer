@@ -1,11 +1,19 @@
-﻿# Chapter 8 — Blomkamp
+﻿# Chapter 8: Blomkamp 1
 
-After Real Steel. Blomkamp world (specific title open until locked: District 9 / Elysium / Chappie / other).
+After Real Steel. First Blomkamp challenge. **Title TBD** (District 9 / Elysium / Chappie — order on Todo / Remap).
 
-**Level on clear:** **150 → 200** (**+50**).
-**Classes:** Wave 2 → **100/100**. Wave 3 opens: **Elementalist / Planewalker / Runesmith 1/100**.
-**Attrs:** Recalc from Status-04 + Timeline per-class gains + racial (`Timeline.md`).
+Source: `Beats\Chapter 8 - Blomkamp 1.md`.
 
-Next: **Chapter 9 Mad Max** (char 250, wave 3 → 50).
+**Level on clear:** **150 → 200** (**+50**). Wave 3 opens.
 
-Prose / beats / Status / Inventory stubs until filled.
+## Leave HQ / open
+
+Activate first Blomkamp world. Who travels = play.
+
+## Challenge spine
+
+Fill when title locked. No invented plot before that.
+
+## Challenge close / return to HQ
+
+Rewards unprinted until Quest Reward Remap locks. Next: **Chapter 9 Blomkamp 2**.

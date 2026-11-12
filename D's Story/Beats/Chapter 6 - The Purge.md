@@ -1,6 +1,6 @@
 # Beats — Chapter 6: The Purge (Solo)
 
-**Live order:** 0 Prologue → 1 Horned Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → **6 The Purge** → 7 Real Steel → 8 Blomkamp → 9 Mad Max.  
+**Live order:** 0 Prologue → 1 Horned Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → **6 The Purge** → 7 Real Steel → 8 Blomkamp 1 → 9 Blomkamp 2 → 10 Mad Max 1 → 11 Mad Max 2.  
 Story: `Story\Chapter 6.md`. Status/Inventory: `06`.  
 **Scope:** Solo challenge after HQ open (Ch5).  
 **Difficulty lock:** D enters at character **Level 100**. That level **raises overall world difficulty** — not a soft one-city Purge Night.  

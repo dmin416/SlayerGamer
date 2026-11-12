@@ -2,7 +2,7 @@
 
 Chapter sequence for the rewrite. Headers or prose live in chapter files. No invented scenes.
 
-**Order:** Prologue (0) → Horned Rabbit ID (1) → RoboCop first (2) → RE2 Remake (3) → RoboCop again / finish (4) → **HQ (5)** → Purge (6) → Real Steel (7) → **Blomkamp (8)** → **Mad Max (9)** → …
+**Order:** Prologue (0) → Horned Rabbit ID (1) → RoboCop first (2) → RE2 Remake (3) → RoboCop again / finish (4) → **HQ (5)** → Purge (6) → Real Steel (7) → **Blomkamp 1 (8)** → **Blomkamp 2 (9)** → **Mad Max 1 (10)** → **Mad Max 2 (11)** → …
 
 **Played fact (notes):** RoboCop **is finished** — April 22 2034 challenge complete; rewards selected. RE2 was also played. Rewrite order below.
 
@@ -20,8 +20,10 @@ Narrative pacing after original: early kills spike, civilian life stalls, challe
 | Ch5 HQ | **100** | Reward open / pacifist. **+0** |
 | Ch6 Purge clear | **150** | **+50** |
 | Ch7 Real Steel clear | **150** | **+0** (no level bump) |
-| Ch8 Blomkamp clear | **200** | **+50**. World after Real Steel |
-| Ch9 Mad Max clear | **250** | **+50**. World after Blomkamp (later visit; not lottery home) |
+| Ch8 Blomkamp 1 clear | **200** | **+50**. First Blomkamp (title TBD); wave 3 opens |
+| Ch9 Blomkamp 2 clear | **225** | **+25**. Second Blomkamp (title TBD) |
+| Ch10 Mad Max 1 clear | **250** | **+25**. First Mad Max (title TBD; not lottery home) |
+| Ch11 Mad Max 2 clear | **275** | **+25**. Second Mad Max (title TBD) |
 
 ### Post-100 world clears (locked)
 
@@ -32,8 +34,10 @@ After character Level **100** (post-RoboCop), clear bumps are assigned per world
 | HQ / pacifist / reward-open | **+0** |
 | The Purge (Ch6) | **+50** |
 | Real Steel (Ch7) | **+0** |
-| Blomkamp (Ch8) | **+50** |
-| Mad Max (Ch9) | **+50** |
+| Blomkamp 1 (Ch8) | **+50** |
+| Blomkamp 2 (Ch9) | **+25** |
+| Mad Max 1 (Ch10) | **+25** |
+| Mad Max 2 (Ch11) | **+25** |
 | Later combat worlds | **+25** or **+50** when assigned |
 
 Maxed classes stay **100/100**. Further clear XP raises **character level**; new class picks (scrolls / tokens / post-max menu) take class XP.
@@ -59,7 +63,7 @@ How new classes arrive (same as original):
 
 **Wave opens (locked):**
 - Wave 2 at RoboCop (char **100**), when wave 1 hits 100
-- Wave 3 at Blomkamp (char **200**), when wave 2 hits 100
+- Wave 3 at Blomkamp 1 (char **200**), when wave 2 hits 100
 - Wave 4 at char **300**, when wave 3 hits 100
 - Wave 5 at char **400**, when wave 4 hits 100
 - Wave 6 at char **500**, when wave 5 hits 100
@@ -110,10 +114,10 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 | **125** | 25 | — | — | — | — | |
 | **150** | 50 | — | — | — | — | **Purge** / Real Steel |
 | **175** | 75 | — | — | — | — | |
-| **200** | 100 | 1 | — | — | — | **Blomkamp** |
-| **225** | 100 | 25 | — | — | — | |
-| **250** | 100 | 50 | — | — | — | **Mad Max** |
-| **275** | 100 | 75 | — | — | — | |
+| **200** | 100 | 1 | — | — | — | **Blomkamp 1** (Ch8) |
+| **225** | 100 | 25 | — | — | — | **Blomkamp 2** (Ch9) |
+| **250** | 100 | 50 | — | — | — | **Mad Max 1** (Ch10) |
+| **275** | 100 | 75 | — | — | — | **Mad Max 2** (Ch11) |
 | **300** | 100 | 100 | 1 | — | — | wave 4 opens |
 | **400** | 100 | 100 | 100 | 1 | — | wave 5 opens |
 | **500** | 100 | 100 | 100 | 100 | 1 | wave 6 opens |
@@ -208,7 +212,7 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 - Slime hatch / Alchemy; household / training as played
 - Murphy / Lewis / Metro West; OCP conflict; city war totals in completed-campaign notes
 - Red Queen; Murphy’s corporate restrictions lifted as played
-- **RoboCop challenge complete** — Peacekeeper track + **post-RoboCop clear package** (**boosted warzone**, difficulty/XP up per his wish): **100,000,000 XP** → **Lv100**; **$10B**; world travel; Gamer’s Phone; gacha = unspent token counts on Inventory; fab alternatives. See `Inventory\Inventory - 04 RoboCop 2.md`. Private world already from RE2. Tribute perk rolls may still be pending. Later locked bumps: Purge +50, Real Steel +0, Blomkamp +50, Mad Max +50.
+- **RoboCop challenge complete** — Peacekeeper track + **post-RoboCop clear package** (**boosted warzone**, difficulty/XP up per his wish): **100,000,000 XP** → **Lv100**; **$10B**; world travel; Gamer’s Phone; gacha = unspent token counts on Inventory; fab alternatives. See `Inventory\Inventory - 04 RoboCop 2.md`. Private world already from RE2. Tribute perk rolls may still be pending. Later locked bumps: Purge +50, Real Steel +0, Blomkamp 1 +50, Blomkamp 2 +25, Mad Max 1 +25, Mad Max 2 +25.
 - The Purge and Real Steel **revealed**; entered later (Ch6 / Ch7), not here
 - Private world already from RE2; **first open = Chapter 5 HQ**
 
@@ -251,29 +255,49 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 - Rewards unprinted until Quest Reward Remap locks
 - Status / Inventory: `Status - 07`, `Inventory - 07`
 - RE7 token still unspent unless assigned
-- Next: **Chapter 8 Blomkamp**
+- Next: **Chapter 8 Blomkamp 1** → **9 Blomkamp 2** → **10 Mad Max 1** → **11 Mad Max 2**
 
 ---
 
-## Chapter 8 — Blomkamp
+## Chapter 8 — Blomkamp 1
 
-`Story\Chapter 8.md` — After Real Steel. Blomkamp world (specific title still open if not locked elsewhere).
+`Story\Chapter 8.md` / `Beats\Chapter 8 - Blomkamp 1.md` — After Real Steel. **Title TBD** (District 9 / Elysium / Chappie).
 
 - Clear level: **150 → 200** (**+50**); wave 2 → **100**; wave 3 opens at **1**; **LCK 1,766**
-- Beats / Status / Inventory: heading / stubs until filled
-- Next: **Chapter 9 Mad Max**
+- Status / Inventory: `Status - 08`, `Inventory - 08`
+- Next: **Chapter 9 Blomkamp 2**
 
 ---
 
-## Chapter 9 — Mad Max
+## Chapter 9 — Blomkamp 2
 
-`Story\Chapter 9.md` — After Blomkamp. Later visit (lottery home was always RoboCop; Mad Max was never started as home).
+`Story\Chapter 9.md` / `Beats\Chapter 9 - Blomkamp 2.md` — Second Blomkamp. **Title TBD** (remaining after Ch8).
 
-- Clear level: **200 → 250** (**+50**); wave 3 → **50**; **LCK 2,501**
-- Beats / Status / Inventory: heading / stubs until filled
-- Chapter 10: heading only until assigned
+- Clear level: **200 → 225** (**+25**); wave 2 **100**; wave 3 → **25**; **LCK ~2,134**
+- Status / Inventory: `Status - 09`, `Inventory - 09`
+- Next: **Chapter 10 Mad Max 1**
+
+---
+
+## Chapter 10 — Mad Max 1
+
+`Story\Chapter 10.md` / `Beats\Chapter 10 - Mad Max 1.md` — After both Blomkamp visits. First Mad Max. Later visit (lottery home was always RoboCop; Mad Max was never started as home). **Title TBD**.
+
+- Clear level: **225 → 250** (**+25**); wave 3 → **50**; **LCK 2,501**
+- Status / Inventory: `Status - 10`, `Inventory - 10`
+- Next: **Chapter 11 Mad Max 2**
+
+---
+
+## Chapter 11 — Mad Max 2
+
+`Story\Chapter 11.md` / `Beats\Chapter 11 - Mad Max 2.md` — Second Mad Max. **Title TBD** (remaining after Ch10).
+
+- Clear level: **250 → 275** (**+25**); wave 3 → **75**; **LCK ~2,869**
+- Status / Inventory: `Status - 11`, `Inventory - 11`
+- Later chapters: heading only until assigned
 
 ## Chapter files
 
 - Prose: `Story\`
-- Beats / Status / Inventory aligned: 0 Prologue → 1 Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → 7 Real Steel → 8 Blomkamp → 9 Mad Max
+- Beats / Status / Inventory aligned: 0 Prologue → 1 Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → 7 Real Steel → **8 Blomkamp 1** → **9 Blomkamp 2** → **10 Mad Max 1** → **11 Mad Max 2**

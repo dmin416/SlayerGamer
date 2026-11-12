@@ -40,4 +40,4 @@ Help Atom claim the championship (repair + support as play). Her Zeus clear and 
 
 ## Challenge close / return to HQ
 
-Level stays **150** (+0). Rewards unprinted until Quest Reward Remap locks; audit into Status/Inventory `07`. RE7 still unspent unless assigned. Gacha this chapter: **+0** until clear rewards chosen.
+Level stays **150** (+0). Rewards unprinted until Quest Reward Remap locks; audit into Status/Inventory `07`. RE7 still unspent unless assigned. Gacha this chapter: **+0** until clear rewards chosen. Next: **Blomkamp 1** → **Blomkamp 2** → **Mad Max 1** → **Mad Max 2**.
