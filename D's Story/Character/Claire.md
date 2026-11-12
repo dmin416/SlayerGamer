@@ -2,7 +2,8 @@
 
 ### Goes by: Claire
 
-Resident Evil 2 notes are finished. She is on the train out of the city with D and Sherry. The invitation is unplayed.
+**Live Present:** rewrite Chapter 3 entry → Chapter 4 household (see Identity table).  
+**Historical RE2-close framing (do not treat as live):** train out of the city; “invitation unplayed.”
 
 ---
 
@@ -16,7 +17,7 @@ Resident Evil 2 notes are finished. She is on the train out of the city with D a
 | Physical | Auburn hair in a ponytail. Stormy grey eyes. Punk. Motorcyclist. Red vest, white crop top, bright blue jeans, gloves, steel-toed boots, collar. Nipple rings, her only piercings at the start |
 | World | Resident Evil. Raccoon City |
 | Role | Arrives looking for her brother Chris. Gas station, then the RPD, then Sherry and NEST |
-| Present | Rewrite: enters Chapter 3 (RE2 Remake). Book skills in Chapter 4 (RoboCop again). Older "train / invitation unplayed" lines below are historical. |
+| Present | Enters Chapter 3 (RE2). Lives Chapter 4 household (books, Aff 50/100, intimacy per Beats). Scrub Mad Max / wrong-order if found. Train / invitation-unplayed = historical only |
 
 Outfit on the page: red vest, white crop top, bright blue jeans, collar, gloves, steel-toed boots, auburn ponytail. Not shorts. Not the classic outfit. Not the remake jacket.
 
@@ -38,7 +39,7 @@ She is not a system user. She has no level, no XP bar, and no Tribute.
 
 ## Skills from books — Chapter 4
 
-Source: `Notes\Unverified\Current_Continuity_Addendum.md` / `D_Multiverse_Master_Save.md`. Rewrite timing: **Chapter 4 (RoboCop again)**. Not Chapter 0–3. No system level.
+Rewrite timing: **Chapter 4 (RoboCop again)** / older Beats RoboCop 2. Not Chapter 0–3. No system level.
 
 | Book / item | Status |
 | --- | --- |
@@ -46,7 +47,33 @@ Source: `Notes\Unverified\Current_Continuity_Addendum.md` / `D_Multiverse_Master
 | Shadow Step / Shadowstep | Given; learned (won from Sherry in rock-paper-scissors in those notes) |
 | First Aid | Given as Basic First Aid; learned as First Aid (rewrite correction: Claire, not Sherry) |
 
-Related Chapter 4+ notes (not books): small voluntary perfected T+G; Stardrop share → 2× stamina regeneration.
+Related Chapter 4+ notes (not books): voluntary perfected T+G; Stardrop share → 2× stamina regeneration. Erdtree immortality from HQ founding (Ch5).
+
+### Body enhancements (locked)
+
+- **Perfected T+G (Ch4):** essentially **superhuman durability and regeneration**. Combat durability is whatever the scene narratively needs. No system level.
+- **Erdtree immortality (Ch5 HQ):** ageless / Erdtree-linked immortality with the household once the founding Erdtree blesses them. Not D’s Grove Immortality perk copy; Erdtree suite.
+- **Sex indestructibility (absolute):** during sex she **cannot be harmed** by any action described (urethral, anal, rough use, pulling piercings, size, pace, anything). Treat her as **essentially indestructible** in intimate scenes. Pain/pleasure can still be written as sensation she wants; injury, tearing, damage, and lasting harm are **off**.
+
+---
+
+## Story handling
+
+- Independent, practical, observant, protective; initiative under pressure. Ambivert: warm and teasing with people she chooses; reserved with strangers or when uncomfortable.
+- Bold style ≠ open access. She controls how she is seen; teasing and thrill-seeking have their own pace; quieter intimacy is separate.
+- Speech: direct, casual complete sentences with contractions. Humor, warmth, irritation, anger as fit — no stock quips.
+- Looking for **Chris** must not vanish because of romance or crossover.
+- Can fight, investigate, plan, ride, assess, protect. Never a passive prize or dependent companion.
+- Bond with D and Sherry grows through shared events; do not announce relationship labels early or from one gesture.
+- Later Detroit: voluntary household with D and Sherry; motorcycles and finding Chris remain. She keeps her own opinions on OCP, police, gear, and D’s choices.
+- Intimate piercings stay private and context-appropriate, not a recurring narration focus.
+
+### Sex / kink (adult; after first night)
+
+- Prefers **being on top** (cowgirl / riding) so **D can see her body**. Fits “seen on my terms”: she controls the display and watches him look.
+- She can initiate the angle and pace; exhibitionist charge is for a trusted witness (him), not a crowd.
+- Other positions fine when she chooses them; default pull is her on top for the visual.
+- Sex-safety lock above always applies.
 
 ---
 
@@ -156,9 +183,9 @@ The seal reads to her as a game rule, and it fits her thrill seeking: he chooses
 
 This rewritten RE2 character profile is preserved as a **historical and personality source**, including its original framing. Its statements that the multiverse invitation is unplayed or that the character is still on the Raccoon City train are now **historical**, not the live scene. The character voluntarily accompanied D to **Detroit (combined RoboCop world, November 2033)**.
 
-**Claire:** learned Telekinesis, Shadowstep (won rock-paper-scissors for Shadowstep), and First Aid; received a small perfected T+G dose producing modest strength/resilience, and a quarter of the Stardrop fruit for 2× stamina regeneration. Close and affectionate with D and Sherry; still interested in weapons, motorcycles and finding Chris. No system level.
+**Claire:** learned Telekinesis, Shadowstep (won rock-paper-scissors for Shadowstep), and First Aid; perfected T+G → essentially superhuman durability/regen; Stardrop 2× stamina regen; Erdtree immortality at Ch5 HQ. Sex indestructible. Close and affectionate with D and Sherry; still interested in weapons, motorcycles and finding Chris. No system level.
 
-**Sherry (18 in this AU):** learned Barrier Shield, Electronics and Lockpicking; used the Vault Boy Medicine Bobblehead for substantial medical knowledge. Built a compact quadruped robot controlled through a **removable external neural interface**, not a permanent implant. Received a small perfected T+G dose with modest strength/resilience, and 2× stamina regeneration from a Stardrop share. No system level. Her hands-on robotic work continues.
+**Sherry (18 in this AU):** learned Barrier Shield, Electronics and Lockpicking; Vault Boy Medicine Bobblehead; compact quadruped robot with removable external neural interface. Perfected T+G → essentially superhuman durability/regen; Stardrop 2× stamina regen; Erdtree immortality at Ch5 HQ. Sex indestructible. No system level.
 
 **Companions (Chapter 4+ RoboCop again — not Chapter 3):** Ty, the nonverbal T-103 companion, and D's unnamed symbiote slime accompany the group after Ty is summoned in Detroit. **Receiver clarification (retroactive, first Ty transformation):** During the initial perfected T-virus transformation in Scene 78–79, **D physically removed Ty’s implanted command transmission receiver**. It is no longer present. Earlier passages describing an inactive but still implanted transmitter refer to the state before that removal and are superseded. Ty can hear and understand speech but does not speak; he communicates with gestures and, since Scene 89, basic sign language. Ty has learned eleven more skill books, including Sign Language Basics, in Scene 89. The RoboCop challenge, OCP investigation and gang unrest remain ongoing; no HQ reward has been earned yet. The women were offered tokens but could not break them; no effect followed.
 
@@ -167,6 +194,6 @@ This rewritten RE2 character profile is preserved as a **historical and personal
 
 **This section supersedes earlier references to Scene 89 as the current stopping point.** From November 19, 2033 to April 22, 2034, D's family grew close to Murphy, Lewis and Metro West; Ty was treated as D, Claire and Sherry's **son-like family member**, never a servant. OCP used hired and financed gangs as well as its own security and robot police to attempt a violent takeover of Detroit, while other gangs remained independent and sometimes vicious. OCP's theft/insurance fraud and secret equipment diversion were exposed. D's unauthorized removal of ~90% of the Jefferson cargo continued to inflate investigators' estimates of OCP's diversion. The city's conflict escalated into a six-week open war, with an estimated **39 major armed engagements**, **~210 smaller clashes**, and **2,480 deaths** (990 civilians, 220 police/emergency/security personnel, 1,270 armed gang/corporate/other combatants). **D directly killed 486 armed attackers while protecting others**, included in the 1,270. These are retroactively established fictional campaign estimates, not exact external historical measurements.
 
-Murphy willingly gained freedom from illicit OCP corporate restrictions with help from Lewis and allies. D activated the intrinsically loyal **Red Queen** in **OCP's central server**. She fully took over that server and its integrated corporate systems, securing operational control of **most of the world's networked economic infrastructure** through OCP's worldwide dependencies, while maintaining essential civilian services. This does not mean that D personally owns all physical assets. OCP's takeover collapsed. Red Queen's future governance and the international response are unresolved. No automatic quest completion reward or HQ was granted. **Current checkpoint: Scene 240, April 22, 2034.** See `RoboCop/RoboCop_Completed_Campaign.md` for chronology and counts.
+Murphy willingly gained freedom from illicit OCP corporate restrictions with help from Lewis and allies. D activated the intrinsically loyal **Red Queen** in **OCP's central server**. She fully took over that server and its integrated corporate systems, securing operational control of **most of the world's networked economic infrastructure** through OCP's worldwide dependencies, while maintaining essential civilian services. This does not mean that D personally owns all physical assets. OCP's takeover collapsed. Red Queen's future governance and the international response are unresolved. No automatic quest completion reward or HQ was granted. **Current checkpoint: RoboCop challenge complete, April 22, 2034.** See `Beats\Chapter 3 - RoboCop 2.md` for chronology and counts.
 
 **Tribute:** Using the earlier 56/100 baseline, 486 credited kills cross the 100-point and 200-point Tribute thresholds, leaving **242/400 provisional** and **two perk rolls pending, not selected**. With the alternate 65/100 baseline, the remainder would be **251/400**. Do not invent outcomes or levels. Ty's transmission receiver was removed during the initial transformation (Scene 78–79) and remains absent.

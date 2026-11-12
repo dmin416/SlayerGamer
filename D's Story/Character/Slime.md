@@ -2,9 +2,9 @@
 
 ### Goes by: none established
 
-Not on the page yet. Not present in Chapter 0–3. Hatches / book skills in **Chapter 4 (RoboCop again)**. Do not invent a personal name.
+Not on the page yet. Not present in Chapter 0–3. Hatches / book skills in **Chapter 4 (RoboCop again)** / older Beats RoboCop 2. Do not invent a personal name.
 
-Source for the character notes below: `Notes\Unverified\Claire Sherry Ty and the Slime Character and Story Style Reference.md` (slime section), plus `Current_Continuity_Addendum.md` / master save book ledger. Unverified until those files are confirmed.
+Hatches and Alchemy in RoboCop again (Beats / Story Ch4).
 
 ---
 
@@ -53,7 +53,7 @@ Source for the character notes below: `Notes\Unverified\Claire Sherry Ty and the
 
 ## Skills from books — Chapter 4
 
-Source: `Notes\Unverified\D_Multiverse_Master_Save.md` book ledger / continuity addendum. Rewrite timing: **Chapter 4 (RoboCop again)**.
+Rewrite timing: **Chapter 4 (RoboCop again)** / older Beats RoboCop 2.
 
 | Book | Status |
 | --- | --- |

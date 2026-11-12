@@ -1,18 +1,14 @@
-## Post-Scene 240 challenge reward resolution (latest canon)
-
-**RoboCop challenge and all listed achievements are completed.** The selected rewards are now received: Perfected Auto-9; unactivated Perfected Motorcycle Vehicle Token; unread Neural Integration and Forensic Investigation skill books; OCP Master Technology Archive; uninstalled RoboCop Leg Holster Module; **Defender Perk** (D may voluntarily transfer damage intended for a single protected person onto himself; his own defenses and regeneration apply); **Multiverse Headquarters unlocked** (design, location and facilities still undecided); and **10 unspent Gacha Tokens**. The extra achievement is **Justice for Alex Murphy**, for helping investigate and solve his murder. Refer to `RoboCop/RoboCop_Challenge_Rewards.md` for exact allocation and restrictions.
-
-The two **Eternal Cycle Tribute random perk rolls remain pending**, separate from Defender. The suggested **Level 60/skill/stat progression is recorded but remains proposed** in `Save/D_RoboCop_Scene240_Progression.md`. This update supersedes older references to the RoboCop completion rewards or HQ being unawarded; it does **not** change established battle counts, deaths, personal kills or story events.
-
 # Duir Maqidev
 
 ### Goes by: D
+
+Never write **Dee**.
 
 ---
 
 ## Premise
 
-Selected by the multiverse lottery as the next Gamer after a lifespan of 77 years, 77 days, 7 hours, 7 minutes and 7 seconds. Character creation finished in Chapter 0. Lottery world: RoboCop (Detroit). Mad Max was never started. Horned Rabbit tutorial = Chapter 1. Chapter 2 RoboCop unfinished when the Common Challenge Token is broken → Resident Evil 2 (Chapter 3). RoboCop / Detroit paused unfinished.
+Selected by the multiverse lottery as the next Gamer after a lifespan of 77 years, 77 days, 7 hours, 7 minutes and 7 seconds. Character creation finished in Chapter 0. Lottery world: RoboCop (Detroit). Mad Max was never started. Horned Rabbit tutorial = Chapter 1. Chapter 2 RoboCop unfinished when the Common Challenge Token is broken → Resident Evil 2 (Chapter 3). RoboCop / Detroit paused unfinished. Post-RoboCop rewards and Level 80 sheet: Beats Ch4 / `Status\Status - 04 RoboCop 2.md`. HQ first open: Beats / Story Ch5.
 
 ---
 
@@ -22,19 +18,31 @@ Selected by the multiverse lottery as the next Gamer after a lifespan of 77 year
 | --- | --- |
 | True Name | Duir Maqidev |
 | Known As | D |
-| Age | 21 |
-| Physical | 5'11". Black hair. Green eyes. Limber build |
+| Age | 21 (body); story age can be 18/21/27 when a different tale needs it |
+| Physical | 5'11". Black hair. Green eyes. Limber build. Neutral light skin; Asian + Celtic blend when relevant (not a nationality) |
 | Race | Transcendent Human (Ard-draoi) |
 | Alignment | True Neutral |
 | System | Polaris (female). Rep 2/100 |
 | Lottery world | RoboCop (Detroit). Mad Max never started |
-| Present | Rewrite: Chapter 3 RE2 challenge while RoboCop / Detroit is paused unfinished. Older "train / invitation unplayed / Mad Max" lines elsewhere are historical Unverified paste |
+| Present | Follow Timeline / Beats / Status by chapter. RE2 Lv34 block below = Ch3 close. Suite/Ty/slime updates = Ch4 mid. RoboCop challenge close / Lv80 = `Status\Status - 04 RoboCop 2.md`. Train / invitation-unplayed / Mad Max lines = historical paste only |
+
+---
+
+## Story handling
+
+- Handy; puzzles, repairs, plants/gardening, animals/companions/symbiotes, tech, gear, abilities. Cooking/gardening are natural opportunities, not forced scenes.
+- Polite by default. Can grin at a risk. Player can steer him kind or cruel; default manner is not a moral lock.
+- **Never narrate** his personality, virtue, darkness, motives, secret feelings, or what choices “say about him.” No “not because X, but because Y.” Show actions and consequences only.
+- **Never invent** his private thoughts, intentions, or judgments. Player-supplied thoughts only, on italic lines if used.
+- Do not make every NPC fixate on him. Supporting cast acts without him.
+- Engine-only (never on page): many prior lifetimes; he may seal memories so a new world feels new. Never hint, foreshadow, or grant knowledge from that.
+- He does not auto-know every device, world, or plot. Knowledge is what the current story established.
 
 ---
 
 ## Challenge world: Resident Evil 2
 
-Known as D. Age 21. Do not write Dee.
+Known as D. Age 21.
 
 The Challenge Token drops him into a body that is already his. He has no memory of buying the sedan, driving to Mizoil, or living a local life in Raccoon City. He can recognize the outbreak. Do not dump future plot. Do not explain his temperament on the page.
 
@@ -44,9 +52,9 @@ Kit on this night is the live sheet, not a second powerset. Inventory is already
 
 ---
 
-## Sheet (RE2 completion reveal)
+## Sheet (RE2 completion reveal) — Chapter 3 checkpoint only
 
-Shared XP. Exact total and the percent inside Level 34 are unprinted. The reveal is +25 levels, 9 to 34, on D and on all three classes.
+**Not live Present after Chapter 4.** Shared XP. Exact total and the percent inside Level 34 are unprinted. The reveal is +25 levels, 9 to 34, on D and on all three classes.
 
 ```
 Duir Maqidev
@@ -67,7 +75,7 @@ END-515
 INT-515
 WIS-515
 CHA-20
-LCK-79
+LCK-149
 Mana Regen = WIS X 2
 MP = INT X 10
 SP/Health Regen = END X 2
@@ -92,7 +100,7 @@ Kill XP is never given as a number. The level screens are the record. Percents a
 | Start, Chapter 0 | none | Level 1. Arcanist 0%. Ard-draoi 0% |
 | Clearing. White Horned Rabbit, Brown Horned Rabbit, Greater Horned Rabbit. The screen opens after the gacha, which paid a token and no XP | amount unprinted | Level 1 to Level 2. One level. Arcanist 95%. Ard-draoi 36% |
 | Shallow hollow. Four Horned Rabbits | amount unprinted | Level 2 to Level 4. Two levels. Arcanist 13%. Ard-draoi 76% |
-| Greater Horned Rabbit Chief | amount unprinted. The screen says Level Up x5 | Level 4 to Level 9. Five levels |
+| Greater Horned Rabbit Alpha (warren boss; old “Chief” wording) | amount unprinted. The screen says Level Up x5 | Level 4 to Level 9. Five levels |
 | Quest completed, The beginning | 500xp, plus ID Create, ID Escape, $500, Random Skill Book | Same sheet. Level 9. Arcanist 19%. Ard-draoi 49%. The 500 does not print a further level |
 
 Absorb Elements, the skill book, and the gacha pull do not print XP. Resident Evil 2 reveals the +25 at completion. It still prints no numeric XP total.
@@ -107,11 +115,11 @@ Absorb Elements, the skill book, and the gacha pull do not print XP. Resident Ev
 
 **Knowledge of the Ancients:** Draw on lore and insight without study in the moment. Recall facts, patterns, languages, histories and practical solutions the instant he needs them. Identify plants, beasts, materials and threats on sight. Piece together plans from incomplete information under pressure. Additional +5 Intelligence per level.
 
-**Primal Savagery:** Alter body into beast shapes. Retain mind through the change. Reshape back at will. Grants access to Primal Savagery.
+**Primal Savagery:** Alter body into beast shapes. Retain mind through the change. Reshape back at will. **Wild Shape is the same transformation progression**, not a separate skill ladder.
 
-**Druid Magic:** Heal wounds, accelerate growth, shape wood and stone, and call vines, thorns, wind and living force. Channel through focus and mana. Grants access to Druid Magic.
+**Druid Magic:** Heal wounds, accelerate growth, shape wood and stone, and call vines, thorns, wind and living force. Channel through focus and mana. Starting grove spells under this line: **Bark Skin**, **Absorb Elements**.
 
-**Eternal Cycle:** When he takes a life, return it to the living world and gather overflow as Tribute. One kill is one point. The bar starts at 25 kills and doubles after each spend. A full Tribute bar is spent and a perk is granted at random. Tribute currently 65/100. The tally in use is 140 lives: Chapter 1's 35, and 105 from this world. Those 105 are 90 zombies, the alligator, 2 Ivies, 9 Lickers, the original Mr. X, and the joint Licker and G5. The Interrogation Room Licker stays off this tally. G1 and G3 stay in the scenes and are off it. The 75th life spent the second bar. The perk from that spend is Nature's Companion.
+**Eternal Cycle:** When he takes a life, return it to the living world and gather overflow as Tribute. One kill is one point. The bar starts at 25 kills and doubles after each spend. A full Tribute bar is spent and a perk is granted at random. Tribute currently 65/100. The tally in use is **174** lives: Chapter 1's **69** (warren pack ledger), and 105 from this world. Those 105 are 90 zombies, the alligator, 2 Ivies, 9 Lickers, the original Mr. X, and the joint Licker and G5. The Interrogation Room Licker stays off this tally. G1 and G3 stay in the scenes and are off it. The 75th life spent the second bar. The perk from that spend is Nature's Companion.
 
 **Kin of the Cycle:** Grants Living Tithe.
 
@@ -121,9 +129,11 @@ Absorb Elements, the skill book, and the gacha pull do not print XP. Resident Ev
 
 ## Skills
 
-The completion reveal raises every skill that is not already MAX. Use weighs the raise. Enchanting is absent.
+**Creation lock (Chapter 0):** Primal Savagery / Wild Shape (one track); **Aeromancy** (Arcanist start); **Druid Magic**, **Bark Skin**, **Absorb Elements** (grove). **Enchanting is not carried over.** Further Arcanist techniques unlock through practice only (later: Static Grip / Electromancy, Spatial Magic).
 
-Primal Savagery (11/100). Aeromancy (29/100). Bark Skin (18/100). Druid Magic (14/100). Absorb Elements (27/100). Observe (25/100). Weapon Mastery (31/100). Unarmed Combat (21/100). Mana Strike (8/100): 50 MP, 2x damage. Sprint (24/100). Dodge (25/100). Parry (17/100): +1% parry chance per level. Physical Resistance (19/100). Water Stream Rock Smashing Fist (6/100). Self-Regeneration (13/100). Rapid Thinking (11/100): +5% thinking speed per rank. Great Sage (11/100): +10% MP regen per rank. Living Tithe (22/100): on Eternal Cycle, restore MP equal to WIS x skill level and SP equal to END x skill level. At 515 and rank 22 that is 11330 MP and 11330 SP. What happens past a full bar is unprinted. Bond (21/100). Gamer's Mind (MAX). Gamer's Body (MAX).
+The RE2 completion reveal raises every skill that is not already MAX. Use weighs the raise. Ranks below = Chapter 3 checkpoint.
+
+Primal Savagery / Wild Shape (11/100). Aeromancy (29/100). Bark Skin (18/100). Druid Magic (14/100). Absorb Elements (27/100). Observe (25/100). Weapon Mastery (31/100). Unarmed Combat (21/100). Mana Strike (8/100): 50 MP, 2x damage. Sprint (24/100). Dodge (25/100). Parry (17/100): +1% parry chance per level. Physical Resistance (19/100). Water Stream Rock Smashing Fist (6/100). Self-Regeneration (13/100). Rapid Thinking (11/100): +5% thinking speed per rank. Great Sage (11/100): +10% MP regen per rank. Living Tithe (22/100): on Eternal Cycle, restore MP equal to WIS x skill level and SP equal to END x skill level. At 515 and rank 22 that is 11330 MP and 11330 SP. What happens past a full bar is unprinted. Bond (21/100). Gamer's Mind (MAX). Gamer's Body (MAX).
 
 Chef: Processing. Preparing. Class level shares the XP pool with Arcanist and Ard-draoi.
 
@@ -154,7 +164,7 @@ Bonus 4 – Find all files (12/12)
 Bonus 5 – ?
 Bonus 6 – ?
 Reward – The Umbrella Reward Pack holds the perfected G-virus, the perfected T-virus, the Plant 43 seed, and the Raccoon City Tech Kit. Beside the pack: a Mr. X companion token, and a Resident Evil 7 challenge token. Bonuses 5 and 6 are still blank and unpaid.
-Notes – None of the six has been used. The viruses are stable and unbonded. The seed is unplanted. The kit's Red Queen is already loyal. The lasers and blueprints are in the kit. The Mr. X token does not undo the original's death. The Resident Evil 7 token is unspent. Claire and Sherry are not rewards. The invitation is unplayed.
+Notes – At RE2 close: none of the six has been used. Viruses stable/unbonded. Seed unplanted. Kit Red Queen already loyal. Mr. X token does not undo the original's death. RE7 token unspent. Claire and Sherry are not rewards. “Invitation unplayed” here is **historical** (Detroit resume = Chapter 4).
 
 ---
 
@@ -162,8 +172,10 @@ Notes – None of the six has been used. The viruses are stable and unbonded. Th
 
 Rare Pan (pot; kitchen/blunt use by skill, not a magic cleaver). Inventory unlocked. Gamer's Shop unlocked. ID Create and ID Escape unlocked. Gacha tokens: 5 common, 1 epic. Challenge Token (Common) consumed: Resident Evil 2, home world paused. Resident Evil 7 challenge token, unspent. Mr. X companion token, unused. Perfected G-virus, unused. Perfected T-virus, unused. Plant 43 seed, unplanted. Raccoon City Tech Kit: loyal Red Queen, lasers, equipment, blueprints. Pale Hollow Mushroom x6. Chef harvest from the dungeon: loins, saddles, haunches, livers, hearts, offal, fat, blood vials, stock bones, marrow bones, horns for gelatin, pelts for wrap and casing, wild onion, wood sorrel, stream cress, wild garlic, 5 cooked rabbits, Recipe Scrap: Horned Rabbit Stock. Lesser Beast Core as mana-rich seasoning. Loot boxes: 105 eligible, one for each kill he took part in, both joint kills included. All unopened. Common x90, the ordinary zombies. Rare x13: Licker x10, alligator x1, Ivy x2. Legendary x2: the original Mr. X, and Birkin's death on the train. G1 and G3 are not boxes. Marvin's peace is Special and is not one of the 105.
 
-## Current campaign update — RoboCop, Detroit (through Scene 79)
-- Current location: presidential suite in downtown Detroit, with Claire, Sherry, and newly summoned Mr. X, now called **Ty**. Older RE2 train-location/invitation lines in this original historical file are superseded by this update.
+## Current campaign update — RoboCop, Detroit (through Scene 79) — Chapter 4 mid
+
+Checkpoint paste, not creation Present.
+- Location at this checkpoint: presidential suite downtown Detroit, with Claire, Sherry, and newly summoned **Ty**. Older RE2 train / invitation-unplayed lines are superseded.
 - D and Claire and Sherry have entered a mutually affectionate relationship: Claire kissed D; Sherry requested a kiss, D lifted and kissed her, and Claire joined their embrace. No further assumptions about boundaries or commitments.
 - D offered Claire and Sherry their choice of his RE2 loot because he cherishes them and wants them safe. He handed **Claire a Telekinesis skill book** and **Sherry a shield-making skill book**. Whether they have read/learned the books is not yet established. He also tossed both some tokens; **neither could break the tokens**, so no effect, reward, or consumption is confirmed.
 - D revealed challenge-world options **The Purge** and **Real Steel** by snapping tokens; both are registered, neither entered. The RE7 reward token remains separate, status unchanged.
@@ -178,7 +190,7 @@ Rare Pan (pot; kitchen/blunt use by skill, not a magic cleaver). Inventory unloc
 - **Perfected T+G enhancement:** D administered the last of his original perfected viral supply to himself after providing earlier small doses to Ty, Claire and Sherry. D gained greater strength, durability, regeneration and potential for unlimited biological evolution. No numeric statistics, transformation or extra abilities were established. **Original supply depleted; companion slime can produce more.**
 - **New inseparable slime companion (Scene 86–88):** D hatched the **Slime Egg**, establishing an intimate permanent bond through spirit, blood, skill and soul, voluntarily and with D's direct player instruction. D gave the slime an **Alchemy skill book** and perfected T and G viral materials. It is now an **early-stage symbiote slime god**, with alchemical knowledge, extreme adaptation/evolution potential and ability to synthesize more perfected viral material. Remains small, translucent/iridescent and affectionate; vast further powers are only potential, not active proven powers. The slime has **no established personal name yet**.
 - **Other companion:** The original Mr. X companion token was consumed to summon Ty (T-103); Ty was already enormously strong and difficult to kill *before* enhancement, capable of casually throwing a helicopter. Now has perfected T+G biology, light-olive skin, bioelectricity, unlimited evolutionary potential, **Chain Lightning** and **Water Walking** (books given by D). Ty understands speech, does not speak, and communicates nonverbally.
-- **Distribution:** Claire learned **Telekinesis**, **Shadowstep** (won fairly at rock-paper-scissors against Sherry), and **First Aid**. Sherry learned **Barrier Shield**, **Electronics**, **Lockpicking**, and gained a **Vault Boy Medicine Bobblehead** knowledge boost. Both women received a tiny perfected T+G dose for modest strength/resilience. Sherry built an initial small four-legged robot, operated with a removable interface at the back of her head.
+- **Distribution:** Claire learned **Telekinesis**, **Shadowstep** (won fairly at rock-paper-scissors against Sherry), and **First Aid**. Sherry learned **Barrier Shield**, **Electronics**, **Lockpicking**, and gained a **Vault Boy Medicine Bobblehead** knowledge boost. Both women received perfected T+G → essentially **superhuman durability and regeneration** (combat narrative; sex absolute no-harm). Erdtree immortality at Ch5 HQ. Sherry built an initial small four-legged robot, operated with a removable interface at the back of her head.
 - **Tokens:** Some unspecified tokens handed to Claire and Sherry couldn't be broken by them. The Purge and Real Steel challenge worlds are revealed but not entered.
 - **Resources and world plot:** D retains approximately 90% of the Jefferson OCP shipment hardware; the apparent police evidence discrepancy is partly caused by D, unknown to investigators, and exaggerates the apparent corporate fraud. Detroit conflict remains unresolved.
 - Preserve original character foundations and older base values, but treat any older claim of unused Ty token, unused viral supply, no new skills, or an unopened slime egg as historical and superseded.
@@ -215,6 +227,6 @@ Ty's total **learned books from D: 13** (these eleven, plus Chain Lightning and 
 
 **This section supersedes earlier references to Scene 89 as the current stopping point.** From November 19, 2033 to April 22, 2034, D's family grew close to Murphy, Lewis and Metro West; Ty was treated as D, Claire and Sherry's **son-like family member**, never a servant. OCP used hired and financed gangs as well as its own security and robot police to attempt a violent takeover of Detroit, while other gangs remained independent and sometimes vicious. OCP's theft/insurance fraud and secret equipment diversion were exposed. D's unauthorized removal of ~90% of the Jefferson cargo continued to inflate investigators' estimates of OCP's diversion. The city's conflict escalated into a six-week open war, with an estimated **39 major armed engagements**, **~210 smaller clashes**, and **2,480 deaths** (990 civilians, 220 police/emergency/security personnel, 1,270 armed gang/corporate/other combatants). **D directly killed 486 armed attackers while protecting others**, included in the 1,270. These are retroactively established fictional campaign estimates, not exact external historical measurements.
 
-Murphy willingly gained freedom from illicit OCP corporate restrictions with help from Lewis and allies. D activated the intrinsically loyal **Red Queen** in **OCP's central server**. She fully took over that server and its integrated corporate systems, securing operational control of **most of the world's networked economic infrastructure** through OCP's worldwide dependencies, while maintaining essential civilian services. This does not mean that D personally owns all physical assets. OCP's takeover collapsed. Red Queen's future governance and the international response are unresolved. No automatic quest completion reward or HQ was granted. **Current checkpoint: Scene 240, April 22, 2034.** See `RoboCop/RoboCop_Completed_Campaign.md` for chronology and counts.
+Murphy willingly gained freedom from illicit OCP corporate restrictions with help from Lewis and allies. D activated the intrinsically loyal **Red Queen** in **OCP's central server**. She fully took over that server and its integrated corporate systems, securing operational control of **most of the world's networked economic infrastructure** through OCP's worldwide dependencies, while maintaining essential civilian services. This does not mean that D personally owns all physical assets. OCP's takeover collapsed. Red Queen's future governance and the international response are unresolved. No automatic quest completion reward or HQ was granted. **Current checkpoint: RoboCop challenge complete, April 22, 2034.** See `Beats\Chapter 3 - RoboCop 2.md` for chronology and counts.
 
 **Tribute:** Using the earlier 56/100 baseline, 486 credited kills cross the 100-point and 200-point Tribute thresholds, leaving **242/400 provisional** and **two perk rolls pending, not selected**. With the alternate 65/100 baseline, the remainder would be **251/400**. Do not invent outcomes or levels. Ty's transmission receiver was removed during the initial transformation (Scene 78–79) and remains absent.

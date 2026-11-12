@@ -260,7 +260,7 @@ The rear of the fleeing train shudders as William Birkin returns in his final mu
 
 - **Mr. X Companion Token** is earned from the challenge resolution of the original Tyrant / Super Tyrant beat. **Not activated in Chapter 3.** Ty is Chapter 4.
 - **Perfected Plant 43 seed** (and any Erdtree seed) are loot / inventory only when awarded — **unplanted**. Private-world Erdtree + Plant benefits are not active in Chapter 3.
-- Challenge rewards / loot accounting: fill `Inventory\Chapter 3.md` and `Status\Chapter 3.md` from verified played gains at **challenge close**, cross-checked against Unverified saves. Do not invent totals; do not leave mid–Chapter 3 prose assuming the full post-RE2 sheet already applied.
+- Challenge rewards / loot accounting: fill `Inventory\Inventory - 03 Resident Evil 2.md` and `Status\Status - 03 Resident Evil 2.md` from verified played gains at **challenge close**, cross-checked against Unverified saves. Do not invent totals; do not leave mid–Chapter 3 prose assuming the full post-RE2 sheet already applied.
 - **Return trigger:** when the challenge ends, Detroit / RoboCop resumes unfinished → Chapter 4.
 
 ---

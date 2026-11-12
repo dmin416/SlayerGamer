@@ -257,7 +257,7 @@ END-20
 INT-20
 WIS-20
 CHA-10
-LCK-7
+LCK-77
 Mana Regen = WIS X 2
 MP = INT X 10
 SP/Health Regen = END X 2
@@ -304,6 +304,9 @@ Variable MP
 Take in elemental force and turn it aside or store it. Capacity and control scale with Wis and skill level
 ```
 
+```
+Creation lock: Aeromancy is your Arcanist start. Druid Magic, Bark Skin, and Absorb Elements are grove starts under Ard-draoi. Primal Savagery and Wild Shape are one transformation progression. Enchanting is not carried over from any other specialization
+```
 
 "Speaking of which, do I get a staff, a cloak or an animal companion?"
 

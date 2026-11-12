@@ -4,7 +4,7 @@
 
 Not on the page yet. Not present in Chapter 0–3. Enters in **Chapter 4 — RoboCop again** (after Chapter 3 RE2 Remake).
 
-Source for the character notes below: `Notes\Unverified\Claire Sherry Ty and the Slime Character and Story Style Reference.md` (Ty section), plus later-continuity clarifications from other unverified Detroit notes. Unverified until those files are confirmed.
+Later-continuity clarifications from other Detroit notes still need reward/timing audit where flagged.
 
 ---
 
@@ -55,7 +55,7 @@ Source for the character notes below: `Notes\Unverified\Claire Sherry Ty and the
 
 Do not nerf him into a dependent bodyguard who needs constant upgrades to matter. Upgrades change presentation and open new tricks; they are not the start of his threat level.
 
-Detail reference for remake / Damnation body stages: `Notes\References\Tyrant Capabilities.md`.
+Detail reference for remake / Damnation body stages: `Notes\References\World Specific\03 Resident Evil 2\Tyrant Capabilities.md`.
 
 ---
 
@@ -75,7 +75,7 @@ Detail reference for remake / Damnation body stages: `Notes\References\Tyrant Ca
 
 ## Skills from books — Chapter 4
 
-Total **13** learned from D in **Chapter 4 (RoboCop again)**. Allocations from existing RE2 loot / books, not fresh drops. Source material: `Notes\Unverified\Current_Continuity_Addendum.md` (and matching save / Story So Far notes). Timing for the rewrite: Chapter 4, not Chapter 0–3.
+Total **13** learned from D in **Chapter 4 (RoboCop again)** / older Beats RoboCop 2. Allocations from existing RE2 loot / books, not fresh drops.
 
 | Book | When (rewrite) |
 | --- | --- |
@@ -110,4 +110,4 @@ From unverified continuity / save notes. Confirm before treating as live rewrite
 
 ## Cross-reference
 
-- Original T-00 / Mr. X body reference: `Notes\References\Tyrant Capabilities.md` (Detroit section is the token companion, not the destroyed original).
+- Original T-00 / Mr. X body reference: `Notes\References\World Specific\03 Resident Evil 2\Tyrant Capabilities.md` (Detroit section is the token companion, not the destroyed original).

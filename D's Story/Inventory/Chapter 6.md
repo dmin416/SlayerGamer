@@ -1,2 +1,0 @@
-﻿# Inventory — Chapter 6
-

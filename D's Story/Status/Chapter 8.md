@@ -1,2 +1,0 @@
-﻿# Status — Chapter 8
-
