@@ -89,14 +89,6 @@ Success = **one** box at that fight’s **floor** rarity, then the upgrade chain
 
 A failed climb leaves the floor box.
 
-### Challenge overlays
-
-When a challenge runs every-kill boxes (RE2 Remake for D):
-
-- **1 box per kill** he took part in (joint kills count). That covers normals too.
-- Box rarity tracks enemy tier (RE2: Common zombies; Rare Lickers/Ivy/alligator; Legendary Mr. X / Birkin train death).
-- Challenge ledgers override this file when they conflict. Live RE2 opens: `RE2_Loot_Box_Openings.md`.
-
 ### How much a box contains (D campaign count)
 
 **Slots = rarity rank × 3 + 1**, with **Common = rank 1**.
@@ -158,7 +150,7 @@ Trait examples once bonded: Slime (Liquid Body, Absorption); Licker (wall-crawl,
 
 ## 5. Restrictions
 
-- Body + on-person are the default kill result. Tokens and boxes are chance-only (unless a challenge overlay forces boxes).
+- Body + on-person are the default kill result. Tokens and boxes are chance-only. No world or challenge grants a box per kill.
 - Companion tokens are **not** on the kill-token table; leave them to quest / world boxes.
 - Skill books are never assumed from the corpse alone.
 - Symbiote rows stay off until bond exists on page.
