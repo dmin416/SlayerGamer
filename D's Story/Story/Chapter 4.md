@@ -132,7 +132,7 @@ OCP offensive collapses. Jones / principals under arrest or investigation. Free 
 
 - Two Eternal Cycle Tribute perk rolls **pending** (separate from Defender)
 - **Defender:** voluntary intercept of damage meant for **one** chosen person at a time; D’s defenses/regen apply; not automatic
-- **Level 80** live in `Status\Status - 04 RoboCop 2.md`. Skill numeric ranks still proposed only
+- **Level 100** live in `Status\Status - 04 RoboCop 2.md`. Skill numeric ranks still proposed only
 - Private world unlocked at RE2; first open / make-own nature land = HQ beats (reward use), not a challenge mission
 
 ## Worlds Revealed (not entered)

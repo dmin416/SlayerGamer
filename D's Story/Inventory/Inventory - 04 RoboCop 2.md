@@ -42,12 +42,12 @@ Preferred when a warzone **Rare** is spent: **T-1000 Companion gem** (*Terminato
 
 | Item | Status |
 | --- | --- |
-| **100,000,000 XP** | Feeds Level **80** (+46 from 34) |
+| **100,000,000 XP** | Feeds Level **100** (+66 from 34); classes max 100/100 |
 | **$10,000,000,000** | Awarded (warzone scale) |
 | World travel unlocked | **Unlocked** |
 | The Gamer’s Phone | Awarded |
 | Multiplayer / friends list | Available |
-| Production / support deepen | Deepen **Chef** + manuals held. Optional: spend Class scrolls ×2 / Class tokens when chosen (receive ≠ activate; multi-standard open at Arcanist 80; second prestige waits on Ard-draoi) |
+| Production / support deepen | Wave 1 maxed. W2 Ranger/Gourmancer/Enchanter @ 1/100. W3–6 locked on Timeline (… → Gunmage/Technodruid/Alchemist → Psionic/Technomancer/Herbalist → Druid/Biomancer/Artificer). Class scrolls ×2 / tokens held for extras |
 | Force / fab slot | **Pick / mix later:** grove automation, Umbrella/NEST blueprints, OCP Archive, Red Queen, slime production, Chef greenhouse/kitchen |
 | Warzone-clear bonus gacha | Counts above (**unspent**) |
 | Mythic Gacha ×1 | **Unspent** (above) |

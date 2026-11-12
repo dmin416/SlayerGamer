@@ -8,7 +8,7 @@ Never write **Dee**.
 
 ## Premise
 
-Selected by the multiverse lottery as the next Gamer after a lifespan of 77 years, 77 days, 7 hours, 7 minutes and 7 seconds. Character creation finished in Chapter 0. Lottery world: RoboCop (Detroit). Mad Max was never started. Horned Rabbit tutorial = Chapter 1. Chapter 2 RoboCop unfinished when the Common Challenge Token is broken → Resident Evil 2 (Chapter 3). RoboCop / Detroit paused unfinished. Post-RoboCop rewards and Level 80 sheet: Beats Ch4 / `Status\Status - 04 RoboCop 2.md`. HQ first open: Beats / Story Ch5.
+Selected by the multiverse lottery as the next Gamer after a lifespan of 77 years, 77 days, 7 hours, 7 minutes and 7 seconds. Character creation finished in Chapter 0. Lottery world: RoboCop (Detroit). Mad Max was never started. Horned Rabbit tutorial = Chapter 1. Chapter 2 RoboCop unfinished when the Common Challenge Token is broken → Resident Evil 2 (Chapter 3). RoboCop / Detroit paused unfinished. Post-RoboCop rewards and Level 100 sheet: Beats Ch4 / `Status\Status - 04 RoboCop 2.md`. HQ first open: Beats / Story Ch5.
 
 ---
 
@@ -24,7 +24,7 @@ Selected by the multiverse lottery as the next Gamer after a lifespan of 77 year
 | Alignment | True Neutral |
 | System | Polaris (female). Rep 2/100 |
 | Lottery world | RoboCop (Detroit). Mad Max never started |
-| Present | Follow Timeline / Beats / Status by chapter. RE2 Lv34 block below = Ch3 close. Suite/Ty/slime updates = Ch4 mid. RoboCop challenge close / Lv80 = `Status\Status - 04 RoboCop 2.md`. Train / invitation-unplayed / Mad Max lines = historical paste only |
+| Present | Follow Timeline / Beats / Status by chapter. RE2 Lv34 block below = Ch3 close. Suite/Ty/slime updates = Ch4 mid. RoboCop challenge close / Lv100 = `Status\Status - 04 RoboCop 2.md`. Train / invitation-unplayed / Mad Max lines = historical paste only |
 
 ---
 
@@ -99,20 +99,24 @@ Chef: +5 Dex, Str and +2 Luck per level.
 | Ch1 end | **9** | Warren kills 1→2→4→9 |
 | Ch2 hospital | **9** | Civilian stretch; no combat XP |
 | Ch3 RE2 clear | **34** | RE2 challenge **first**; normal package **5,000,000 XP** (+25). Big narrative jump before finishing RoboCop |
-| Ch4 RoboCop clear | **80** | Return to Detroit; war raises difficulty; **boosted warzone** package **100,000,000 XP** (+46) |
-| Ch5–7 | **80** | Until Purge / Real Steel audited |
+| Ch4 RoboCop clear | **100** | Boosted warzone **100,000,000 XP** (+66). Classes max **100/100** |
+| Ch5 HQ | **100** | Pacifist / reward-open **+0** |
+| Ch6 Purge clear | **150** | **+50** |
+| Ch7 Real Steel clear | **150** | **+0** |
+| Ch8 Blomkamp clear | **200** | **+50** |
+| Ch9 Mad Max clear | **250** | **+50** (later visit; not lottery home) |
 
-Shared XP across Arcanist / Ard-draoi / Chef.
+Shared XP through RoboCop across Arcanist / Ard-draoi / Chef. After 100, maxed classes stay put; character level climbs on assigned clear bumps.
 
 ## Class slots (locked; Iris)
 
-| Slot | Fill | Gate |
-| --- | --- | --- |
-| Primary / standard | **Arcanist** (Ch0) | Multi-standard after one standard hits **Lv40** |
-| Prestige | **Ard-draoi** (Ch0) | **One prestige leveling at a time** |
-| Production | **Chef** (Ch1) | Unlocks at **character Level 5** |
+| Slot | W1 | W2 | W3 | W4 | W5 | W6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Primary / standard | **Arcanist** | **Ranger** | **Elementalist** | **Gunmage** | **Psionic** | **Druid** |
+| Prestige / legendary profession | **Ard-draoi** | **Gourmancer** | **Planewalker** | **Technodruid** | **Technomancer** | **Biomancer** |
+| Production | **Chef** | **Enchanter** | **Runesmith** | **Alchemist** | **Herbalist** | **Artificer** |
 
-New classes arrive by slot unlock, finishing a track, quest/job grant, Class token / Class scroll (receive ≠ activate; prereqs + menu), or mastery condition. **Held:** Class tokens C/E/L + Class scroll ×2. Do not invent auto-classes. Full rule: `Notes\Continuity\Timeline.md`.
+Wave opens at char **100 / 200 / 300 / 400 / 500**. Per-class stat gains (all waves) locked on `Timeline.md` (e.g. Ranger STR/DEX/END; Gourmancer DEX/WIS/LCK; Gunmage DEX/INT/LCK). LCK-only dump superseded. Racial +5 WIS/END/INT per character level still applies. Creation still had no Enchanting; Enchanter is wave-2 production. **Held:** Class tokens C/E/L + Class scroll ×2.
 
 ## XP that printed
 
@@ -126,7 +130,7 @@ Kill XP is never given as a number. The level screens are the record. Percents a
 | Greater Horned Rabbit Alpha | amount unprinted. Level Up x5 | Level 4 to Level 9. Five levels |
 | Quest completed, The beginning | 500xp + ID Create / Escape + $500 + WSRSF | Stays Level 9. Arcanist 19%. Ard-draoi 49% |
 | RE2 clear package (normal) | **5,000,000 XP** | Level 9 to **34** (+25) |
-| RoboCop clear package (boosted warzone) | **100,000,000 XP** | Level 34 to **80** (+46) |
+| RoboCop clear package (boosted warzone) | **100,000,000 XP** | Level 34 to **100** (+66) |
 
 ---
 

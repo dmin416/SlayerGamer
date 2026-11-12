@@ -2,11 +2,11 @@
 
 **Checkpoint:** End of The Purge (solo). Fill rewards when audited.
 
-**Level:** **80** until Purge clear XP is assigned. Classes carry Arcanist / Ard-draoi / Chef **80/100**; Class×2 still unspent.
+**Level locked at 150** on clear (**+50** from 100). Wave 1 **100/100**. Wave 2 **Ranger / Gourmancer / Enchanter 50/100**. Attrs = Status-04 baseline + wave-2 gains (49 ranks) + racial ×50; **recalc on audit** (`Timeline.md` gain table). Class×2 still unspent. Other rewards unprinted until audited.
 
 ## Skills
 
-Carry from HQ / RoboCop 2 until audited. Creation lock unchanged (Aeromancy; grove Druid Magic / Bark Skin / Absorb Elements; Primal Savagery / Wild Shape). No Enchanting.
+Carry from HQ / RoboCop 2 until audited. Creation lock unchanged (Aeromancy; grove Druid Magic / Bark Skin / Absorb Elements; Primal Savagery / Wild Shape). Enchanter production live from Status-04.
 
 ## Gacha
 

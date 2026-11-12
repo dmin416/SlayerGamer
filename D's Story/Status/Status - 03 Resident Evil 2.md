@@ -1,7 +1,7 @@
 # Status — Resident Evil 2
 End of RE2 Remake challenge. Compact sheet from RE2 completion reveal. Mad Max never started (lottery = RoboCop).
 
-**Level locked at 34** (+25 from 9). RE2 was cleared **before** finishing RoboCop, so this is the big mid-campaign jump (**5,000,000 XP**, normal package). Kill XP prints `?` and does not drive the bump. Next: return to Detroit / war → Status-04 Level 80.
+**Level locked at 34** (+25 from 9). RE2 was cleared **before** finishing RoboCop, so this is the big mid-campaign jump (**5,000,000 XP**, normal package). Kill XP prints `?` and does not drive the bump. Next: return to Detroit / war → Status-04 Level 100.
 
 ## Classes / identity
 

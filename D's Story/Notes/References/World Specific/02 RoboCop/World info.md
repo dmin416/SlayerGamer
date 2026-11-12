@@ -8,7 +8,7 @@ Beats: Ch2 (first), Ch4 (again). Guide catalog: `References\Multiverse\Multivers
 | File | What |
 | --- | --- |
 | `RoboCop_Detroit_Gun_Law.md` | Local gun-law reference |
-| `D_RoboCop_Level80_Skill_Review.md` | Proposed skill ranks at Level 80 (**not finalized**) |
+| `D_RoboCop_Level80_Skill_Review.md` | Proposed skill ranks at post-RoboCop **Level 100** (**not finalized**; filename still says 80) |
 
 ## Quick setting
 

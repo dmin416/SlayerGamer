@@ -1,5 +1,5 @@
 # Status — RoboCop 1
-**Checkpoint:** End of **Chapter 2 — first RoboCop** (Murphy hospitalization). Pre–Challenge Token snap. Do not apply RE2 Level **34** or RoboCop Level **80** here.
+**Checkpoint:** End of **Chapter 2 — first RoboCop** (Murphy hospitalization). Pre–Challenge Token snap. Do not apply RE2 Level **34** or RoboCop Level **100** here.
 
 **Level locked at 9.** Civilian Detroit stretch; no meaningful combat XP (same shape as original early AoT downtime).
 

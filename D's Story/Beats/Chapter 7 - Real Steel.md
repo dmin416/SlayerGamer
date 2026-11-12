@@ -1,6 +1,6 @@
 # Beats — Chapter 7: Real Steel
 
-**Live order:** 0 Prologue → 1 Horned Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → **7 Real Steel**.  
+**Live order:** 0 Prologue → 1 Horned Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → **7 Real Steel** → 8 Blomkamp → 9 Mad Max.  
 Story: `Story\Chapter 7.md`. Status/Inventory: `07`.  
 **Scope:** Real Steel challenge after Purge. No native powers (Guide §45).  
 **Party:** Not locked solo. Sherry robotics interest noted; HQ is home base.  
@@ -43,6 +43,7 @@ Gacha: `Notes\References\Original Rewards\gacha-rules.md`.
 
 ## Beat 7 — Challenge close / return to HQ
 
-- Rewards unprinted until selected; RE7 still unspent unless assigned
+- Clear level: stays **150** (**+0**). Other rewards unprinted until selected; RE7 still unspent unless assigned
 - **Gacha this chapter:** **+0** until Real Steel clear rewards chosen. Running carry: `Inventory\Inventory - 07` (same as 04/05/06 until audited)
 - Home-base reunion sex on return if the household split for the challenge
+- Next: **8 Blomkamp** (**+50** → 200) → **9 Mad Max** (**+50** → 250)

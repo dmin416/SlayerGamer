@@ -42,9 +42,9 @@ Interactive story handling. D / Claire / Sherry / Ty / slime voice and agency li
 13. Record decisions and consequences; never overwrite a newer correction with an older snapshot. Preserve uncertainty where a trait or choice is not yet established.
 14. Story before mechanics. Do not decide D’s next major commitment (relationship label, boss approach, reward use, world jump) for him.
 15. Lottery world is **RoboCop**. Mad Max was never home.
-16. Do not auto-apply Level 34 / 80 / opened-box sheets into early-chapter prose.
+16. Do not auto-apply Level 34 / 100 / 150 / 200 / 250 / opened-box sheets into early-chapter prose. Post-100 locked bumps: Purge +50, Real Steel +0, Blomkamp +50, Mad Max +50; other combat +25/+50 when assigned; pacifist +0.
 17. Sherry is AU 18; no child-era phrasing.
-18. Old chapter numbers from before rabbit-as-Ch1 are dead. Live order: 0 Prologue → 1 Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → 7 Real Steel.
+18. Old chapter numbers from before rabbit-as-Ch1 are dead. Live order: 0 Prologue → 1 Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → 7 Real Steel → 8 Blomkamp → 9 Mad Max.
 19. Open rewrite work lives only in `Notes\Continuity\Todo.md`. No parallel backlog files.
 20. After Claire/Sherry first nights + threesome (Beats Ch4), sex is a normal part of the adult household. Put intimacy beats wherever quiet private time exists for world travelers: suite/HQ nights, between challenges, after returns, calm travel lodging. Prefer one-on-one and shared nights as the characters want. Skip mid-combat, public spectacle, and Purge-solo night. Ty is son-like family, not a sex partner. Sherry is AU 18. Defaults: Claire on top so D can see her; Sherry missionary/D-on-top (vag + anal) or seated upright hugging close. Detail in `Character\Claire.md` / `Sherry.md`.
 21. Claire and Sherry: perfected T+G = essentially **superhuman durability and regeneration** (combat = narrative). **Erdtree immortality** from Ch5 HQ founding. **During sex they can never be harmed** by any described action (urethral, anal, pulling piercings, size, roughness, anything). Essentially **indestructible** in intimate scenes; no injury/tearing/damage outcomes.

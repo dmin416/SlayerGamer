@@ -2,13 +2,13 @@
 
 Chapter sequence for the rewrite. Headers or prose live in chapter files. No invented scenes.
 
-**Order:** Prologue (0) → Horned Rabbit ID (1) → RoboCop first (2) → RE2 Remake (3) → RoboCop again / finish (4) → **HQ (5)** → Purge (6) → Real Steel (7) → …
+**Order:** Prologue (0) → Horned Rabbit ID (1) → RoboCop first (2) → RE2 Remake (3) → RoboCop again / finish (4) → **HQ (5)** → Purge (6) → Real Steel (7) → **Blomkamp (8)** → **Mad Max (9)** → …
 
 **Played fact (notes):** RoboCop **is finished** — April 22 2034 challenge complete; rewards selected. RE2 was also played. Rewrite order below.
 
 ## Level curve (locked)
 
-Narrative pacing after original: early kills spike, civilian life stalls, challenge dumps jump, then warzone dumps harder.
+Narrative pacing after original: early kills spike, civilian life stalls, challenge dumps jump, then warzone dumps harder. After RoboCop maxes him, later worlds use flat clear bumps.
 
 | Checkpoint | Level | Notes |
 | --- | ---: | --- |
@@ -16,19 +16,39 @@ Narrative pacing after original: early kills spike, civilian life stalls, challe
 | Ch1 Horned Rabbit end | **9** | Kill-driven: 1→2→4→9 (warren). Tutorial 500 XP does not bump further |
 | Ch2 RoboCop 1 (hospital) | **9** | Civilian Detroit. No meaningful combat XP |
 | Ch3 RE2 clear | **34** | Challenge done **before** returning to finish RoboCop. **5,000,000 XP** (normal) → **+25**. RE2 kill XP prints `?` / does not drive the jump |
-| Ch4 RoboCop finish | **80** | Back into lottery world; war escalates difficulty; clear is **boosted warzone** with higher XP. **100,000,000 XP** → **+46** |
-| Ch5 HQ | **80** | Reward open; no clear XP |
-| Ch6 Purge / Ch7 Real Steel | **80** | Until those clears are audited |
+| Ch4 RoboCop finish | **100** | Boosted warzone clear. **100,000,000 XP** → **+66** from 34. Arcanist / Ard-draoi / Chef **100/100** (maxed) |
+| Ch5 HQ | **100** | Reward open / pacifist. **+0** |
+| Ch6 Purge clear | **150** | **+50** |
+| Ch7 Real Steel clear | **150** | **+0** (no level bump) |
+| Ch8 Blomkamp clear | **200** | **+50**. World after Real Steel |
+| Ch9 Mad Max clear | **250** | **+50**. World after Blomkamp (later visit; not lottery home) |
 
-Shared XP: Arcanist / Ard-draoi / Chef track the character level.
+### Post-100 world clears (locked)
+
+After character Level **100** (post-RoboCop), clear bumps are assigned per world (not invented mid-chapter):
+
+| World | Δ Level |
+| --- | ---: |
+| HQ / pacifist / reward-open | **+0** |
+| The Purge (Ch6) | **+50** |
+| Real Steel (Ch7) | **+0** |
+| Blomkamp (Ch8) | **+50** |
+| Mad Max (Ch9) | **+50** |
+| Later combat worlds | **+25** or **+50** when assigned |
+
+Maxed classes stay **100/100**. Further clear XP raises **character level**; new class picks (scrolls / tokens / post-max menu) take class XP.
+
+Shared XP through RoboCop: Arcanist / Ard-draoi / Chef track the character level.
 
 ## Class slots (locked; Iris pattern)
 
-| Slot | D's fill | Rule |
-| --- | --- | --- |
-| **Primary / standard** | Arcanist (Ch0) | Creation pick. After **one standard hits Lv40**, additional standard classes may level in parallel. |
-| **Prestige** | Ard-draoi (Ch0 race) | **One prestige leveling at a time.** A second prestige waits until the current track is finished / maxed (or he stops leveling it). |
-| **Production** | Chef (Ch1 at Lv5) | Unlocks at **character Level 5**. Separate craft track. |
+| Slot | Wave 1 | Wave 2 | Wave 3 | Wave 4 | Wave 5 | Wave 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Primary / standard** | Arcanist | **Ranger** | **Elementalist** | **Gunmage** | **Psionic** | **Druid** |
+| **Prestige / legendary profession** | Ard-draoi | **Gourmancer** | **Planewalker** | **Technodruid** | **Technomancer** | **Biomancer** |
+| **Production** | Chef | **Enchanter** | **Runesmith** | **Alchemist** | **Herbalist** | **Artificer** |
+
+Rules: multi-standard after Lv40; **one prestige leveling at a time**; production is the craft track. Creation had no Enchanting; Enchanter is the wave-2 craft pick.
 
 How new classes arrive (same as original):
 1. **Slot unlock** (production at Lv5; multi-standard after Lv40).
@@ -37,7 +57,69 @@ How new classes arrive (same as original):
 4. **Class token / Class scroll** — receive ≠ activate; must meet prereqs; opens a category menu (Fighter / Mage / Rogue / Support / Prestige, etc.).
 5. **Mastery condition** on a class can free the next pick.
 
-**Held unspent:** Class tokens C/E/L (Ch1 kill-drop) + Class scroll ×2 (RE2). Do not auto-grant classes. At Lv80 Arcanist is past 40, so a spent Class scroll may open another **standard** now; a second **prestige** still waits on Ard-draoi.
+**Wave opens (locked):**
+- Wave 2 at RoboCop (char **100**), when wave 1 hits 100
+- Wave 3 at Blomkamp (char **200**), when wave 2 hits 100
+- Wave 4 at char **300**, when wave 3 hits 100
+- Wave 5 at char **400**, when wave 4 hits 100
+- Wave 6 at char **500**, when wave 5 hits 100
+- Wave 6 max at char **600**
+
+### Per-class stat gains (locked; rough)
+
+Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist). Chef stays **+5 STR / +5 DEX / +2 LCK**. Racial perks still add **+5 WIS / +5 END / +5 INT per character level**.
+
+| Class | Slot | Wave | Per level |
+| --- | --- | ---: | --- |
+| Arcanist | Standard | 1 | +5 INT, WIS, END |
+| Ard-draoi | Prestige | 1 | +5 END, INT, WIS |
+| Chef | Production | 1 | +5 STR, DEX; +2 LCK |
+| Ranger | Standard | 2 | +5 STR, DEX, END |
+| Gourmancer | Prestige | 2 | +5 DEX, WIS, LCK |
+| Enchanter | Production | 2 | +5 INT, WIS, CHA |
+| Elementalist | Standard | 3 | +5 INT, WIS, END |
+| Planewalker | Prestige | 3 | +5 INT, WIS, LCK |
+| Runesmith | Production | 3 | +5 STR, INT, DEX |
+| Gunmage | Standard | 4 | +5 DEX, INT, LCK |
+| Technodruid | Prestige | 4 | +5 END, WIS, INT |
+| Alchemist | Production | 4 | +5 INT, DEX, WIS |
+| Psionic | Standard | 5 | +5 INT, WIS, CHA |
+| Technomancer | Prestige | 5 | +5 INT, DEX, END |
+| Herbalist | Production | 5 | +5 WIS, DEX, LCK |
+| Druid | Standard | 6 | +5 WIS, END, STR |
+| Biomancer | Prestige | 6 | +5 END, INT, STR |
+| Artificer | Production | 6 | +5 DEX, INT, STR |
+
+**Old LCK-only dump for waves 2–6 is superseded.** Post-100 attrs climb from the table above + racial. HP/MP/SP follow END/INT formulas when those move. Printed post-100 full sheets = recalc on audit from RoboCop baseline (Status-04).
+
+### Shared rank per wave (helper)
+
+| Wave | Per shared rank (sum of its 3 classes) |
+| --- | --- |
+| 2 | STR+5, DEX+10, END+5, INT+5, WIS+10, CHA+5, LCK+5 |
+| 3 | STR+5, DEX+5, END+5, INT+15, WIS+10, LCK+5 |
+| 4 | DEX+10, END+5, INT+15, WIS+10, LCK+5 |
+| 5 | DEX+10, END+5, INT+10, WIS+10, CHA+5, LCK+5 |
+| 6 | STR+15, DEX+5, END+10, INT+10, WIS+5 |
+
+### Wave ranks (+25 steps)
+
+| Char Lv | W2 | W3 | W4 | W5 | W6 | Checkpoint |
+| --- | ---: | ---: | ---: | ---: | ---: | --- |
+| **100** | 1 | — | — | — | — | RoboCop / HQ |
+| **125** | 25 | — | — | — | — | |
+| **150** | 50 | — | — | — | — | **Purge** / Real Steel |
+| **175** | 75 | — | — | — | — | |
+| **200** | 100 | 1 | — | — | — | **Blomkamp** |
+| **225** | 100 | 25 | — | — | — | |
+| **250** | 100 | 50 | — | — | — | **Mad Max** |
+| **275** | 100 | 75 | — | — | — | |
+| **300** | 100 | 100 | 1 | — | — | wave 4 opens |
+| **400** | 100 | 100 | 100 | 1 | — | wave 5 opens |
+| **500** | 100 | 100 | 100 | 100 | 1 | wave 6 opens |
+| **600** | 100 | 100 | 100 | 100 | 100 | wave 6 max |
+
+(Intermediates every +25 still apply; abbreviate here.) Skills / class flavor still unprinted. Class tokens C/E/L + Class scroll ×2 remain **held**.
 
 ---
 
@@ -126,7 +208,7 @@ How new classes arrive (same as original):
 - Slime hatch / Alchemy; household / training as played
 - Murphy / Lewis / Metro West; OCP conflict; city war totals in completed-campaign notes
 - Red Queen; Murphy’s corporate restrictions lifted as played
-- **RoboCop challenge complete** — Peacekeeper track + **post-RoboCop clear package** (**boosted warzone**, difficulty/XP up per his wish): **100,000,000 XP** → **Lv80**; **$10B**; world travel; Gamer’s Phone; gacha = unspent token counts on Inventory; fab alternatives. See `Inventory\Inventory - 04 RoboCop 2.md`. Private world already from RE2. Tribute perk rolls may still be pending.
+- **RoboCop challenge complete** — Peacekeeper track + **post-RoboCop clear package** (**boosted warzone**, difficulty/XP up per his wish): **100,000,000 XP** → **Lv100**; **$10B**; world travel; Gamer’s Phone; gacha = unspent token counts on Inventory; fab alternatives. See `Inventory\Inventory - 04 RoboCop 2.md`. Private world already from RE2. Tribute perk rolls may still be pending. Later locked bumps: Purge +50, Real Steel +0, Blomkamp +50, Mad Max +50.
 - The Purge and Real Steel **revealed**; entered later (Ch6 / Ch7), not here
 - Private world already from RE2; **first open = Chapter 5 HQ**
 
@@ -139,6 +221,7 @@ How new classes arrive (same as original):
 - First open of RE2-unlocked private world (void mini-planet)
 - Founding grove planted; he makes his own nature land
 - Status / Inventory: `Status - 05`, `Inventory - 05`
+- Level stays **100** (+0)
 - Next: Purge solo (household stays at HQ)
 
 ---
@@ -148,6 +231,7 @@ How new classes arrive (same as original):
 `Story\Chapter 6.md` — After HQ open. Solo. Survive Purge Night.
 
 - Party / loadout from RoboCop close; household at HQ
+- Clear level: **100 → 150** (**+50**); wave 2 → **50/100**; **LCK 1,016**
 - Rewards unprinted until selected
 - Status / Inventory: `Status - 06`, `Inventory - 06`
 
@@ -157,17 +241,33 @@ How new classes arrive (same as original):
 
 `Story\Chapter 7.md` — After Purge. HQ home base.
 
+- Clear level: stays **150** (**+0**); wave 2 still **50**; **LCK 1,016**
 - Rewards unprinted until selected
 - Status / Inventory: `Status - 07`, `Inventory - 07`
 - RE7 token still unspent unless assigned
+- Next: **Chapter 8 Blomkamp**
 
 ---
 
-## Later (unassigned)
+## Chapter 8 — Blomkamp
 
-- Chapters 8–10: heading only until assigned
+`Story\Chapter 8.md` — After Real Steel. Blomkamp world (specific title still open if not locked elsewhere).
+
+- Clear level: **150 → 200** (**+50**); wave 2 → **100**; wave 3 opens at **1**; **LCK 1,766**
+- Beats / Status / Inventory: heading / stubs until filled
+- Next: **Chapter 9 Mad Max**
+
+---
+
+## Chapter 9 — Mad Max
+
+`Story\Chapter 9.md` — After Blomkamp. Later visit (lottery home was always RoboCop; Mad Max was never started as home).
+
+- Clear level: **200 → 250** (**+50**); wave 3 → **50**; **LCK 2,501**
+- Beats / Status / Inventory: heading / stubs until filled
+- Chapter 10: heading only until assigned
 
 ## Chapter files
 
 - Prose: `Story\`
-- Beats / Status / Inventory aligned: 0 Prologue → 1 Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → 7 Real Steel
+- Beats / Status / Inventory aligned: 0 Prologue → 1 Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → 7 Real Steel → 8 Blomkamp → 9 Mad Max

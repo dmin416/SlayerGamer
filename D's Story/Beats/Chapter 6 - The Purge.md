@@ -46,7 +46,7 @@ Gacha: `Notes\References\Original Rewards\gacha-rules.md` (kill tokens Luck/200;
 
 ## Beat 7 — Challenge close / return to HQ
 
-- Rewards unprinted until selected; audit later
+- Clear level: **100 → 150** (**+50**). Other rewards unprinted until selected
 - **Gacha this chapter:** **+0** until Purge clear rewards chosen (kill tokens/boxes only if rolled in play). Running carry: `Inventory\Inventory - 06` (same as 04/05 until audited)
 - Return to HQ; **reunion intimacy** once safe (relief / prove-alive; often shared or whoever grabs him first)
 - Next **7 Real Steel**; RE7 still unspent unless assigned

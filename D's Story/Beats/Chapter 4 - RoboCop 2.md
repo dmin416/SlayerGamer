@@ -185,9 +185,9 @@ Gacha: `Notes\References\Original Rewards\gacha-rules.md` (unspent counts on Inv
 
 - Two Eternal Cycle Tribute perk rolls **pending** (separate from Defender)
 - **Defender:** voluntary intercept of damage meant for **one** chosen person at a time; D’s defenses/regen apply; not automatic
-- **Level 80** class/attrs: `Status\Status - 04 RoboCop 2.md`. Skill ranks still **proposed only** (`Notes\References\World Specific\02 RoboCop\D_RoboCop_Level80_Skill_Review.md`)
-- **Private world** unlocked at RE2; first open = **Beats Ch5 HQ**. Not a challenge mission.
-- **Post-RoboCop clear package** (**boosted warzone**): **100,000,000 XP**; **$10B**; world travel; Gamer’s Phone. Fab alternatives on Inventory.
+- **Level 100** class/attrs: `Status\Status - 04 RoboCop 2.md`. Wave 1 **100/100**; wave 2 **Ranger** / **Gourmancer** / **Enchanter** at **1/100**; later locked waves 3–6 on `Timeline.md` (Elementalist… through Druid / Biomancer / Artificer). Skill ranks still **proposed only** (`Notes\References\World Specific\02 RoboCop\D_RoboCop_Level80_Skill_Review.md`)
+- **Private world** unlocked at RE2; first open = **Beats Ch5 HQ**. Not a challenge mission (**+0** levels).
+- **Post-RoboCop clear package** (**boosted warzone**): **100,000,000 XP** → Lv100; **$10B**; world travel; Gamer’s Phone. Fab alternatives on Inventory. Locked later bumps: Purge +50, Real Steel +0, Blomkamp +50, Mad Max +50.
 - **Gacha this clear (unspent):** Peacekeeper **+10 Common**; warzone **+1 Mythic**; bonus pool **+4 Common + 5 Rare + 1 Epic + 2 Legendary**. Running: **50C / 10R / 3E / 2L / 1M** + Ch1 meta + Perk×2 + Class×2 + RE7 + box ledger. Live: `Inventory\Inventory - 04`. No pull results owned. Preferred when a warzone **Rare** is spent: **T-1000 Companion gem**.
 
 ## Beat 18 — Worlds already revealed (not entered)

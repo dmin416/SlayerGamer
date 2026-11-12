@@ -1,6 +1,6 @@
 # Status — HQ
 
-**Checkpoint:** First open of private world (void mini-planet + founding grove). Not a challenge clear. **Level locked at 80** (carry from RoboCop 2). Classes carry: Arcanist / Ard-draoi / Chef **80/100** (slots per Status-04; Class×2 still unspent). No HQ clear XP.
+**Checkpoint:** First open of private world (void mini-planet + founding grove). Not a challenge clear. **Level locked at 100** (carry from RoboCop 2). Pacifist / reward-open: **+0** levels. Classes: wave 1 **100/100**; wave 2 **1/100**. Attrs = Status-04 baseline (no wave-2 gains yet). Class×2 still unspent.
 
 ## Gacha
 
@@ -9,11 +9,11 @@
 
 ## Skills
 
-Carry from `Status - 04`. Creation lock unchanged: Aeromancy; Druid Magic / Bark Skin / Absorb Elements; Primal Savagery / Wild Shape (one track). No Enchanting.
+Carry from `Status - 04`. Creation lock unchanged: Aeromancy; Druid Magic / Bark Skin / Absorb Elements; Primal Savagery / Wild Shape (one track). Enchanter production is live at 1/100 (not a creation carryover).
 
 ## Notes
 
 - Private world unlocked at RE2; **opened** here
 - Grove roles scale with growth on the page
-- Next: Purge solo (household stays at HQ) → Real Steel
+- Next: Purge solo (+50 → 150; household at HQ) → Real Steel (+0) → Blomkamp (+50 → 200) → Mad Max (+50 → 250)
 - Live beats: `Beats\Chapter 5 - HQ.md`

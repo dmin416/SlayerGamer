@@ -1,10 +1,10 @@
 **Proposed only. Not live ranks until approved.**
 
-# D — RoboCop Level 80: Skill Review for Level 80
+# D — RoboCop post-clear: Skill Review (filename says Level 80; live character level is **100**)
 
-**Status: candidate ranks, NOT yet granted or finalized.** D's three classes and base attributes are finalized at Level 80. Skill growth depends on actual use, not character-level multipliers. The completed Detroit campaign is summarized rather than played fight by fight, so these are balanced estimates rather than measured XP.
+**Status: candidate ranks, NOT yet granted or finalized.** Character level and the three classes are locked at **100** / **100/100**. Skill growth depends on actual use, not character-level multipliers. The completed Detroit campaign is summarized rather than played fight by fight, so these are balanced estimates rather than measured XP.
 
-The table below preserves the previously suggested challenge-close figures as a **conservative baseline** and gives a recommended Level 80 campaign-final rank reflecting additional time, practice, combat, and investigation **only where the narrative plausibly supports them**. A rank is not proof that a specific spell was frequently cast: adjust after the user's decisions.
+The table below preserves the previously suggested challenge-close figures as a **conservative baseline** and gives a recommended post-RoboCop campaign-final rank reflecting additional time, practice, combat, and investigation **only where the narrative plausibly supports them**. A rank is not proof that a specific spell was frequently cast: adjust after the user's decisions. Column header still says Level 80 for history; treat values as Level 100 candidates.
 
 | Skill | Level 34 baseline | Earlier challenge-close proposal | New suggested Level 80 rank | Rationale |
 |---|---:|---:|---:|---|
