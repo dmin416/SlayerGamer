@@ -6,7 +6,7 @@ Story: `Story\Chapter 6.md`. Status/Inventory: `06`.
 **Solo lock:** D alone. Claire, Sherry, Ty, slime stay at **HQ**.  
 **Intimacy:** goodbye sex at HQ before drop-in; reunion sex after return. **No** partner sex during Purge Night (solo lock).  
 Sources: Timeline Purge stub, Multiverse World Guide §26, RoboCop 2 + HQ. **No invented movie plot.**  
-Gacha: `Notes\References\Original Rewards\gacha-rules.md` (Luck/1000 on kills if used; clear rewards unprinted until chosen).
+Gacha: `Notes\References\Original Rewards\gacha-rules.md` (kill tokens Luck/200; kill boxes Luck/10000; clear rewards unprinted until chosen).
 
 ---
 
@@ -47,6 +47,6 @@ Gacha: `Notes\References\Original Rewards\gacha-rules.md` (Luck/1000 on kills if
 ## Beat 7 — Challenge close / return to HQ
 
 - Rewards unprinted until selected; audit later
-- **Gacha this chapter:** **+0** until Purge clear rewards chosen (kill Luck/1000 tokens only if rolled in play). Running carry: `Inventory\Inventory - 06` (same as 04/05 until audited)
+- **Gacha this chapter:** **+0** until Purge clear rewards chosen (kill tokens/boxes only if rolled in play). Running carry: `Inventory\Inventory - 06` (same as 04/05 until audited)
 - Return to HQ; **reunion intimacy** once safe (relief / prove-alive; often shared or whoever grabs him first)
 - Next **7 Real Steel**; RE7 still unspent unless assigned

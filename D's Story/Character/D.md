@@ -91,19 +91,42 @@ Arcanist: +5 Int, Wis and End per level.
 Ard-draoi: +5 End, Int and Wis per level.
 Chef: +5 Dex, Str and +2 Luck per level.
 
+## Level curve (locked)
+
+| Checkpoint | Level | Why |
+| --- | ---: | --- |
+| Ch0 | **1** | Creation |
+| Ch1 end | **9** | Warren kills 1→2→4→9 |
+| Ch2 hospital | **9** | Civilian stretch; no combat XP |
+| Ch3 RE2 clear | **34** | RE2 challenge **first**; normal package **5,000,000 XP** (+25). Big narrative jump before finishing RoboCop |
+| Ch4 RoboCop clear | **80** | Return to Detroit; war raises difficulty; **boosted warzone** package **100,000,000 XP** (+46) |
+| Ch5–7 | **80** | Until Purge / Real Steel audited |
+
+Shared XP across Arcanist / Ard-draoi / Chef.
+
+## Class slots (locked; Iris)
+
+| Slot | Fill | Gate |
+| --- | --- | --- |
+| Primary / standard | **Arcanist** (Ch0) | Multi-standard after one standard hits **Lv40** |
+| Prestige | **Ard-draoi** (Ch0) | **One prestige leveling at a time** |
+| Production | **Chef** (Ch1) | Unlocks at **character Level 5** |
+
+New classes arrive by slot unlock, finishing a track, quest/job grant, Class token / Class scroll (receive ≠ activate; prereqs + menu), or mastery condition. **Held:** Class tokens C/E/L + Class scroll ×2. Do not invent auto-classes. Full rule: `Notes\Continuity\Timeline.md`.
+
 ## XP that printed
 
-Kill XP is never given as a number. The level screens are the record. Percents are how far he is inside the level he just reached. Chef has no XP. One Style's 1,000,000 XP is unpaid. Resident Evil 2 kills print `?` and add nothing here.
+Kill XP is never given as a number. The level screens are the record. Percents are how far he is inside the level he just reached. One Style's 1,000,000 XP is unpaid. Resident Evil 2 kills print `?` and do not drive the +25.
 
 | Source | Printed XP | Levels |
 | --- | --- | --- |
 | Start, Chapter 0 | none | Level 1. Arcanist 0%. Ard-draoi 0% |
-| Clearing. White Horned Rabbit, Brown Horned Rabbit, Greater Horned Rabbit. The screen opens after the gacha, which paid a token and no XP | amount unprinted | Level 1 to Level 2. One level. Arcanist 95%. Ard-draoi 36% |
+| Clearing. White / Brown / Greater Horned Rabbits | amount unprinted | Level 1 to Level 2. One level. Arcanist 95%. Ard-draoi 36% |
 | Shallow hollow. Four Horned Rabbits | amount unprinted | Level 2 to Level 4. Two levels. Arcanist 13%. Ard-draoi 76% |
-| Greater Horned Rabbit Alpha (warren boss; old “Chief” wording) | amount unprinted. The screen says Level Up x5 | Level 4 to Level 9. Five levels |
-| Quest completed, The beginning | 500xp, plus ID Create, ID Escape, $500, Random Skill Book | Same sheet. Level 9. Arcanist 19%. Ard-draoi 49%. The 500 does not print a further level |
-
-Absorb Elements, the skill book, and the gacha pull do not print XP. Resident Evil 2 reveals the +25 at completion. It still prints no numeric XP total.
+| Greater Horned Rabbit Alpha | amount unprinted. Level Up x5 | Level 4 to Level 9. Five levels |
+| Quest completed, The beginning | 500xp + ID Create / Escape + $500 + WSRSF | Stays Level 9. Arcanist 19%. Ard-draoi 49% |
+| RE2 clear package (normal) | **5,000,000 XP** | Level 9 to **34** (+25) |
+| RoboCop clear package (boosted warzone) | **100,000,000 XP** | Level 34 to **80** (+46) |
 
 ---
 

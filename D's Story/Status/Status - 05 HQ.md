@@ -1,11 +1,11 @@
 # Status — HQ
 
-**Checkpoint:** First open of private world (void mini-planet + founding grove). Not a challenge clear. Level still **80** from RoboCop 2 unless play changes it.
+**Checkpoint:** First open of private world (void mini-planet + founding grove). Not a challenge clear. **Level locked at 80** (carry from RoboCop 2). Classes carry: Arcanist / Ard-draoi / Chef **80/100** (slots per Status-04; Class×2 still unspent). No HQ clear XP.
 
 ## Gacha
 
 - This chapter: **+0**
-- Running unspent: **29C / 5R / 2E / 2L / 1M** + Perk×2 + Class×2 + box ledger (`Inventory\Inventory - 05`)
+- Running unspent: **50C / 10R / 3E / 2L / 1M** + Ch1 meta + Perk×2 + Class×2 + RE7 + box ledger (`Inventory\Inventory - 05`)
 
 ## Skills
 

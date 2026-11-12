@@ -62,4 +62,4 @@ Gacha: no clear pool this chapter. Rules: `Notes\References\Original Rewards\gac
 
 - HQ is live as home base
 - Next: **6 Purge** (solo; household stays at HQ) → **7 Real Steel**
-- **Gacha this chapter:** **+0**. Running unspent: **29C / 5R / 2E / 2L / 1M** + Perk×2 + Class×2 + box ledger (`Inventory\Inventory - 05`). Tribute perk rolls / motorcycle / RE7 still pending
+- **Gacha this chapter:** **+0**. Running unspent: **50C / 10R / 3E / 2L / 1M** + Ch1 meta + Perk×2 + Class×2 + RE7 + box ledger (`Inventory\Inventory - 05`). Tribute perk rolls / motorcycle still pending

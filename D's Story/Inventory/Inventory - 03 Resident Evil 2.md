@@ -14,7 +14,7 @@ Box ledger: `Notes\References\World Specific\03 Resident Evil 2\RE2_Loot_Box_Ope
 | **5,000,000 XP** | Feeds Level **34** (+25 from 9) |
 | **$1,000,000** | Awarded (normal clear scale) |
 | Gacha Tokens (Common) ×10 | **Unspent** (table below) |
-| Class scroll ×2 | **Unspent / unchosen** |
+| Class scroll ×2 | **Unspent / unchosen** (receive ≠ activate; menu + prereqs; not auto-class) |
 | Perk Gacha ×2 | **Unspent** |
 | **Private world unlock** | Unlocked; first open = HQ after RoboCop |
 

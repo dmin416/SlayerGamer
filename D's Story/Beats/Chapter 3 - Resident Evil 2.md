@@ -125,7 +125,7 @@ Gacha / loot: `Notes\References\Original Rewards\gacha-rules.md`, `loot-rules.md
 
 - **Post-RE2 clear package** (**normal**; RE2 + system flavor only): `Inventory\Inventory - 03 Resident Evil 2.md`
 - **5,000,000 XP** → Lv34; **$1,000,000**; Umbrella/NEST automation blueprints
-- **Gacha this clear (unspent):** **+10 Common**, **+2 Perk Gacha**, **+2 Class scroll**, plus box-ledger tokens. Running: **15 Common + 1 Epic** (+ Perk/Class/box). No pull results in bag.
+- **Gacha this clear (unspent):** **+10 Common**, **+2 Perk Gacha**, **+2 Class scroll**, plus box-ledger tokens. Running standard: **36 Common + 5 Rare + 2 Epic** (+ Ch1 meta / Perk / Class / RE7 / box ledger). See `Inventory - 03`. No pull results in bag.
 - Kill boxes: 105 opened per ledger; tokens inside stay **unspent** until snapped
 - Companion slot: **Mr. X Companion Token** — **not** activated (Ty later)
 - **Private world unlocked**. He **makes his own nature land**. First open = HQ (Beats Ch5), not here.

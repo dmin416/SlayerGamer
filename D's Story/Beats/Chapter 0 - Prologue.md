@@ -20,7 +20,8 @@ No invented scenes. Gacha: none yet. Rules: `Notes\References\Original Rewards\g
 
 ## Beat 3 — Class and Polaris
 
-- Mage → Arcanist (replaces older Enchanter choice)
+- Iris explains slots: Ard-draoi = **prestige** (one prestige leveling at a time); multi-standard after a standard hits **Lv40**; production slot later at character **Lv5**
+- Mage → Arcanist (primary; replaces older Enchanter choice). Production = none yet
 - Starting skills: **Aeromancy** (Arcanist); **Druid Magic**, **Bark Skin**, **Absorb Elements** (grove under Ard-draoi); **Primal Savagery / Wild Shape** (one transformation track). **No Enchanting.** Further Arcanist techniques unlock through practice only.
 - Gamers Mind, Gamers Body, Observe (before tutorial drop)
 - System companion named Polaris (helpful, mildly teasing)

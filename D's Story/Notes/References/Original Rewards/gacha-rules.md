@@ -159,7 +159,7 @@ For printed clear/quest packages or other sources that still climb. **Not** afte
 | **God-tier** | **God-tier only** | Direct God token. |
 | **Perk Token** | Perks only | Skips category swim. |
 | **Skill Token** | Skills / skill books only | Skips category swim. |
-| **Class / Race / World Token** | Fixed meta category | Receive ≠ activate. Challenge/World kill drops are flat (no rarity). |
+| **Class / Race / World Token** | Fixed meta category | Receive ≠ activate. Class token / Class scroll opens a category menu; must meet prereqs before leveling. Prestige stays one-at-a-time; multi-standard after Lv40; production is the Lv5 craft slot (`Timeline.md`). Challenge/World kill drops are flat (no rarity). |
 | **Companion Token** | Named companion | **Not** from kill-token RNG; quest / world boxes. |
 | **Challenge Token** | Challenge select | Flat; no rarity on kill drops. |
 

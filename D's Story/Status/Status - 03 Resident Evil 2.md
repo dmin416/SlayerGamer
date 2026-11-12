@@ -1,17 +1,21 @@
 # Status — Resident Evil 2
-End of RE2 Remake challenge (pre–Detroit training gains). Compact sheet from RE2 completion reveal. Mad Max home-world lines discarded (lottery = RoboCop). Boxes were later opened in play; this sheet is the **Level 34** checkpoint before RoboCop-again training / war.
+End of RE2 Remake challenge. Compact sheet from RE2 completion reveal. Mad Max never started (lottery = RoboCop).
+
+**Level locked at 34** (+25 from 9). RE2 was cleared **before** finishing RoboCop, so this is the big mid-campaign jump (**5,000,000 XP**, normal package). Kill XP prints `?` and does not drive the bump. Next: return to Detroit / war → Status-04 Level 80.
 
 ## Classes / identity
 
 | Field | Value |
 | --- | --- |
 | Level | 34 (shared XP; +25 from Level 9 rabbit close) |
-| Arcanist | 34/100 |
-| Ard-draoi | 34/100 |
-| Chef | 34/100 |
+| Primary — Arcanist | 34/100 |
+| Prestige — Ard-draoi | 34/100 (one prestige leveling at a time) |
+| Production — Chef | 34/100 |
 | Race | Transcendent Human (Ard-draoi) |
 | Alignment | True Neutral |
 | Polaris rep | 2/100 |
+
+**Slots:** Arcanist has not yet hit 40, so multi-standard is still closed. **Class scroll ×2** and Class tokens C/E/L remain **held** (receive ≠ activate; menu + prereqs when spent).
 
 ## Base attributes (formulas; Self-Regeneration / Great Sage not folded in)
 

@@ -12,7 +12,7 @@ Creation skills: `Status\Status - 00 Prologue.md`. No separate opening-breakdown
 - Source pattern: `Slayer Gamer Source\The_Slayer_Gamer.txt` [The beginning]
 - Rare drop = **Rare Pan** (ordinary high-quality; no magic; Cooking / Blunt Melee by use, not granted by the pan). **Not** The Butcher.
 - Random skill book = **WSRSF** only (not Gentle Fist). One book; learned 1/100; consumed. No second mystery martial book.
-- Levels: 1 → 2 (early forage / brush) → 4 (hollow den of four) → 9 (warren alpha). Chef unlock at Level 5 threshold (presented at Level 9 clear). Common Challenge Token held for RE2.
+- Levels: 1 → 2 (early forage / brush) → 4 (hollow den of four) → 9 (warren alpha). Production slot at character Level 5 → **Chef** (presented at Level 9 clear). Prestige stays Ard-draoi only. Common Challenge Token held for RE2.
 - Fauna flavor: **pack / warren animals**, not soldiers. No scout / warrior / village language.
 - Fighting kit: Ard-draoi / Arcanist creation skills. Not Slayer rage, Blood Punch, Glory Kills, engineering, or Enchanting.
 - On kill: **body / harvest** always (hide, meat, horn, bone, etc.). Rabbits have no kit. Rare Pan and clear gacha are **not** “on the rabbit.”
@@ -52,7 +52,7 @@ Tribute for Ch1 = **69** (replaces the old goblin Soul Well “35” copy).
 
 **Early brush / hollow den:** hides/pelts; horns, bones, feet, meat stacks; 5× roasted squirrel; **Rare Pan**; $75.
 
-**Warren clear + alpha + quest complete:** Chef harvest (loins, saddles, haunches, livers, hearts, offal, fat, blood vials, stock/marrow bones, horns, pelts/hides, feet) + forage (wild onion, wood sorrel, stream cress, wild garlic); 5× Cooked rabbits (Rare); Recipe Scrap: Horned Rabbit Stock (if taken); Lesser Beast Core (if taken); 5× Common + 1× Epic gacha (**unspent**); 2× minor health potions; Common Challenge Token; Mana Strike (skill).
+**Warren clear + alpha + quest complete:** Chef harvest (loins, saddles, haunches, livers, hearts, offal, fat, blood vials, stock/marrow bones, horns, pelts/hides, feet) + forage (wild onion, wood sorrel, stream cress, wild garlic); 5× Cooked rabbits (Rare); Recipe Scrap: Horned Rabbit Stock (if taken); Lesser Beast Core (if taken); clear gacha **5 Common + 1 Epic** plus kill-drop tokens (full unspent on `Inventory - 01`); 2× minor health potions; Common Challenge Token; Mana Strike (skill).
 
 **Not received:** goblin/rabbit weapons; The Butcher.
 
@@ -70,7 +70,7 @@ Rare Cooking Ingredients Pack; Three Recipe Packs (15 recipes TBD); seven-volume
 | Goblin spears / clubs / swords | Horns, bones, feet, meat / organs (harvest only) |
 | The Butcher (Rare cleaver) | **Rare Pan** (ordinary high-quality; no magic) |
 | Gentle Fist skill book | **Water Stream Rock Smashing Fist** (learned 1/100) |
-| Folding blade / Daisy foot / Saxe / Bastion gem (Tavish draws) | **Not owned** until D spends gacha; opening tokens are **5 Common + 1 Epic unspent** |
+| Folding blade / Daisy foot / Saxe / Bastion gem (Tavish draws) | **Not owned** until D spends gacha; clear package **5 Common + 1 Epic** plus Ch1 kill-drop stack on `Inventory - 01` (**unspent**; no pulls) |
 | Slayer's Testament Vol I–VII | **Seven-volume Ard-draoi grimoire collection** |
 | Sentinel Spear (Epic) | **Enchanted Druid Staff** (Epic; does not auto-clear Look the Part) |
 | Super Shotgun (Mythic) | **Arcanist Spellbook** (Mythic; spells not auto-learned) |
@@ -85,5 +85,6 @@ Rare Cooking Ingredients Pack; Three Recipe Packs (15 recipes TBD); seven-volume
 ## Still open (do not invent)
 
 - Exact on-page moment of pan discovery and Mana Strike breakthrough (outcomes locked; staging free)
-- Exact recipe list, grimoire volume effects, greenhouse/kitchen blueprint design
+- Exact Three Recipe Pack list, Ard-draoi grimoire volume effects, greenhouse/kitchen blueprint design (intentionally blank until assigned)
 - Further Arcanist starters beyond Aeromancy (Enchanting stays out unless separately unlocked)
+- Ch1 free-point spend after Level 1 (unprinted; class/racial gains only until locked)

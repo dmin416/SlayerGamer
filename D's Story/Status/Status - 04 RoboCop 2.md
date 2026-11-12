@@ -1,15 +1,18 @@
 # Status — RoboCop 2
-End of finished RoboCop (RoboCop challenge close). Level sheet from user-finalized post-campaign progression. **Skill numeric ranks are NOT finalized** (see `Notes\References\World Specific\02 RoboCop\D_RoboCop_Level80_Skill_Review.md`).
+End of finished RoboCop (challenge close). **Skill numeric ranks are NOT finalized** (see `Notes\References\World Specific\02 RoboCop\D_RoboCop_Level80_Skill_Review.md`).
+
+**Level locked at 80.** After RE2’s jump to 34, he returns to lottery-world Detroit. The war raises difficulty; clear is **boosted warzone** with higher XP (**100,000,000 XP** → +46 from 34), matching his wish for a harder second Detroit run.
 
 ## Classes
 
-| Class | Level |
-| --- | ---: |
-| Arcanist | 80/100 |
-| Ard-draoi | 80/100 |
-| Chef | 80/100 |
+| Slot | Track | Level |
+| --- | --- | ---: |
+| Character | Level | **80** |
+| Primary | Arcanist | 80/100 |
+| Prestige | Ard-draoi | 80/100 (one prestige leveling at a time) |
+| Production | Chef | 80/100 |
 
-Shared XP pool. Net +46 from Level 34 RE2-era checkpoint.
+Shared XP pool. Arcanist is past **Lv40**, so an additional **standard** class may level in parallel once chosen. A second **prestige** still waits on Ard-draoi. **Class scroll ×2** + Class tokens C/E/L still **unspent** (receive ≠ activate).
 
 ## Base attributes
 
@@ -42,4 +45,4 @@ See `Inventory\Inventory - 04 RoboCop 2.md`.
 
 - **RoboCop Peacekeeper track:** Defender learned; private world already from RE2; Neural / Forensic **unread**; motorcycle **unactivated**; leg holster **uninstalled**.
 - **Post-RoboCop clear package (boosted warzone):** **100,000,000 XP** → Level 80; **$10B**; world travel + Gamer’s Phone. Fab slot = grove / Umbrella-NEST / OCP / Red Queen / slime / Chef complex.
-- **Gacha this clear:** +14 Common, +5 Rare, +1 Epic, +2 Legendary, +1 Mythic (**unspent**). **Running:** 29C / 5R / 2E / 2L / 1M + Perk×2 + Class×2 + box ledger. See `Inventory - 04`.
+- **Gacha this clear:** +14 Common, +5 Rare, +1 Epic, +2 Legendary, +1 Mythic (**unspent**). **Running:** 50C / 10R / 3E / 2L / 1M + Ch1 meta + Perk×2 + Class×2 + RE7 + box ledger. See `Inventory - 04`.

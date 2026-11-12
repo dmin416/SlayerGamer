@@ -1,7 +1,7 @@
 # Status — RoboCop 1
-**Checkpoint:** End of **Chapter 2 — first RoboCop** (Murphy hospitalization). Pre–Challenge Token snap. Do not apply RE2 Level ~34 or later RoboCop Level ~80 here.
+**Checkpoint:** End of **Chapter 2 — first RoboCop** (Murphy hospitalization). Pre–Challenge Token snap. Do not apply RE2 Level **34** or RoboCop Level **80** here.
 
-No level-ups audited for the Detroit civilian stretch. Level remains **9** unless a later audit proves otherwise.
+**Level locked at 9.** Civilian Detroit stretch; no meaningful combat XP (same shape as original early AoT downtime).
 
 ## Identity
 
@@ -19,12 +19,14 @@ No level-ups audited for the Detroit civilian stretch. Level remains **9** unles
 
 ## Classes / level
 
-| Track | Rank |
-| --- | --- |
-| Character level | **9** |
-| Arcanist | 9/100 (shared XP) |
-| Ard-draoi | 9/100 (shared XP) |
-| Chef | 9/100 |
+| Slot | Track | Rank |
+| --- | --- | ---: |
+| Character | Level | **9** |
+| Primary | Arcanist | 9/100 (shared XP) |
+| Prestige | Ard-draoi | 9/100 (shared XP; one prestige at a time) |
+| Production | Chef | 9/100 |
+
+No new class slots opened this chapter. Class tokens held unspent.
 
 ## Skills / quests (carry from Ch1)
 
@@ -43,5 +45,5 @@ Creation lock still holds: Aeromancy (Arcanist); Druid Magic / Bark Skin / Absor
 
 - RoboCop program / Murphy-as-RoboCop **not** known yet (Chapter 4).
 - Common Challenge Token still **held** at this checkpoint; snap is the bridge into Chapter 3 (RE2).
-- Gacha this chapter: **+0**. Running unspent: **5 Common + 1 Epic** (`Inventory - 02`).
+- Gacha this chapter: **+0**. Running unspent: **26 Common + 5 Rare + 2 Epic** (+ Ch1 skill/perk/class/challenge meta). See `Inventory - 02`.
 - Mad Max never started.

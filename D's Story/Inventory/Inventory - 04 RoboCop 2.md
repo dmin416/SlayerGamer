@@ -47,7 +47,7 @@ Preferred when a warzone **Rare** is spent: **T-1000 Companion gem** (*Terminato
 | World travel unlocked | **Unlocked** |
 | The Gamer’s Phone | Awarded |
 | Multiplayer / friends list | Available |
-| Production / support deepen | Deepen **Chef** + manuals held. Optional: spend Class scrolls ×2 when chosen |
+| Production / support deepen | Deepen **Chef** + manuals held. Optional: spend Class scrolls ×2 / Class tokens when chosen (receive ≠ activate; multi-standard open at Arcanist 80; second prestige waits on Ard-draoi) |
 | Force / fab slot | **Pick / mix later:** grove automation, Umbrella/NEST blueprints, OCP Archive, Red Queen, slime production, Chef greenhouse/kitchen |
 | Warzone-clear bonus gacha | Counts above (**unspent**) |
 | Mythic Gacha ×1 | **Unspent** (above) |

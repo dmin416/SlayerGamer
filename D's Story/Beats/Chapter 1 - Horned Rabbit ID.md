@@ -24,7 +24,7 @@ No invented scenes. Gacha: `Notes\References\Original Rewards\gacha-rules.md` (t
 - Rare Pan (ordinary high-quality; no magic; not The Butcher). Cooking / Blunt Melee by use.
 - Mana Strike discovered (weapon / unarmed / Wild Shape natural attack)
 - Kill loot = rabbit harvest (meat, horn, hide, bone, feet, organs, forage). No weapons.
-- Per-kill gacha: Luck/1000; foragers normal; **Greater bruiser = elite ×3**; alpha = **boss ×10**. Clear awards printed tokens below.
+- Per-kill tokens: **Luck/200**; boxes: **Luck/10000**; foragers normal; **Greater bruiser = elite ×3**; alpha = **boss ×10**. Clear awards printed tokens below. Full audit: `Inventory - 01`.
 - Full typed kill ledger (69): World info
 
 ## Beat 3 — [One Style to rule them all]
@@ -40,9 +40,9 @@ No invented scenes. Gacha: `Notes\References\Original Rewards\gacha-rules.md` (t
 
 ## Beat 5 — Chef unlock / opening packs
 
-- Production class at Level 5 threshold → **Chef** (Processing + Preparing). Shared XP with Arcanist + Ard-draoi afterward.
+- Production slot unlocks at **character Level 5** → **Chef** (Processing + Preparing). Shared XP with Arcanist + Ard-draoi afterward. Prestige remains one-at-a-time (Ard-draoi).
 - Opening packs / books / staff / spellbook / blueprint awarded (**receipt ≠ use**). Full list: `Inventory - 01` + World info.
-- **Gacha this clear:** **5× Common** + **1× Epic** (**unspent**; no pulls). Live: `Inventory\Inventory - 01`
+- **Gacha this clear:** printed **5× Common** + **1× Epic**, plus kill-drop stack (**unspent**; no pulls). Live totals: `Inventory\Inventory - 01`
 - Do **not** put Tavish pull results in the bag. If a luck charm is later drawn, Fry’s Seven-Leaf Clover is **+77% Luck**
 - Rejected: three extra class blueprint packs. Do not add.
 

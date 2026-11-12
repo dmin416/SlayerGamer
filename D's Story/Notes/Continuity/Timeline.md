@@ -6,6 +6,39 @@ Chapter sequence for the rewrite. Headers or prose live in chapter files. No inv
 
 **Played fact (notes):** RoboCop **is finished** — April 22 2034 challenge complete; rewards selected. RE2 was also played. Rewrite order below.
 
+## Level curve (locked)
+
+Narrative pacing after original: early kills spike, civilian life stalls, challenge dumps jump, then warzone dumps harder.
+
+| Checkpoint | Level | Notes |
+| --- | ---: | --- |
+| Ch0 Prologue | **1** | Creation |
+| Ch1 Horned Rabbit end | **9** | Kill-driven: 1→2→4→9 (warren). Tutorial 500 XP does not bump further |
+| Ch2 RoboCop 1 (hospital) | **9** | Civilian Detroit. No meaningful combat XP |
+| Ch3 RE2 clear | **34** | Challenge done **before** returning to finish RoboCop. **5,000,000 XP** (normal) → **+25**. RE2 kill XP prints `?` / does not drive the jump |
+| Ch4 RoboCop finish | **80** | Back into lottery world; war escalates difficulty; clear is **boosted warzone** with higher XP. **100,000,000 XP** → **+46** |
+| Ch5 HQ | **80** | Reward open; no clear XP |
+| Ch6 Purge / Ch7 Real Steel | **80** | Until those clears are audited |
+
+Shared XP: Arcanist / Ard-draoi / Chef track the character level.
+
+## Class slots (locked; Iris pattern)
+
+| Slot | D's fill | Rule |
+| --- | --- | --- |
+| **Primary / standard** | Arcanist (Ch0) | Creation pick. After **one standard hits Lv40**, additional standard classes may level in parallel. |
+| **Prestige** | Ard-draoi (Ch0 race) | **One prestige leveling at a time.** A second prestige waits until the current track is finished / maxed (or he stops leveling it). |
+| **Production** | Chef (Ch1 at Lv5) | Unlocks at **character Level 5**. Separate craft track. |
+
+How new classes arrive (same as original):
+1. **Slot unlock** (production at Lv5; multi-standard after Lv40).
+2. **Finish / max a track**, then pick next main / production / prestige.
+3. **Quest / job grant** (class can land mid-rank; not only menu picks).
+4. **Class token / Class scroll** — receive ≠ activate; must meet prereqs; opens a category menu (Fighter / Mage / Rogue / Support / Prestige, etc.).
+5. **Mastery condition** on a class can free the next pick.
+
+**Held unspent:** Class tokens C/E/L (Ch1 kill-drop) + Class scroll ×2 (RE2). Do not auto-grant classes. At Lv80 Arcanist is past 40, so a spent Class scroll may open another **standard** now; a second **prestige** still waits on Ard-draoi.
+
 ---
 
 ## Chapter 0 — Prologue
@@ -33,13 +66,13 @@ Chapter sequence for the rewrite. Headers or prose live in chapter files. No inv
 
 - [The beginning]: observe / kill Horned Rabbit / clear warren (pack fauna, not scouts)
 - Kill ledger **69**: 32 White + 28 Brown + 8 Greater bruisers + 1 Alpha (`World Specific\01`)
-- Kill loot = harvest pattern; **Rare Pan**; squirrels/cooked rabbits; potions; 5 Common + 1 Epic gacha; cash (`Inventory - 01`)
+- Kill loot = harvest pattern; **Rare Pan**; squirrels/cooked rabbits; potions; clear gacha 5C+1E + kill-drop stack; cash (`Inventory - 01`)
 - Mana Strike; Wild Shape / Primal Savagery use
 - [One Style to rule them all]
 - Greater Horned Rabbit Alpha → Level 4 to 9; Common Challenge Token (held, unused)
 - Clear rewards: ID Create, ID Escape, 500 XP, $500, **WSRSF** = the Random Skill Book (learned 1/100; no second mystery book)
 - Level 5 production unlock → Chef
-- Opening packs / books awarded (receipt ≠ use); gacha = **5 Common + 1 Epic tokens unspent** (no pulls yet)
+- Opening packs / books awarded (receipt ≠ use); gacha unspent on `Inventory - 01` (clear 5C+1E + kill-drops; no pulls yet)
 - Polaris transfers D to Detroit
 
 **Status / Inventory:** `Status\Status - 01 Horned Rabbit ID.md`, `Inventory\Inventory - 01 Horned Rabbit ID.md` (end of rabbit ID / Detroit transfer)
@@ -75,7 +108,7 @@ Chapter sequence for the rewrite. Headers or prose live in chapter files. No inv
 - Starts at Mizoil; Claire and Sherry enter here
 - Short remake night. Party pattern: split at car before blast → RPD lobby reunion when Claire needs help → Mr. X separates them again → Irons takes Sherry → join back up later
 - Mr. X Companion Token **earned**; **not** activated
-- **Post-RE2 clear package** (**normal**): Umbrella/NEST automation blueprints; **5,000,000 XP** → Lv34; **$1,000,000**; Common Gacha ×10; Class scrolls ×2 unchosen; Perk Gacha ×2 **TBD**; **private world unlocked**. No Horizon flavor.
+- **Post-RE2 clear package** (**normal**): Umbrella/NEST automation blueprints; **5,000,000 XP** → **Lv34** (big jump; challenge cleared before finishing RoboCop); **$1,000,000**; Common Gacha ×10; Class scrolls ×2 unchosen; Perk Gacha ×2 **TBD**; **private world unlocked**. No Horizon flavor.
 - Perfected Plant 43 seed (and Erdtree seed if awarded) = **loot only, unplanted**
 - Challenge close → return toward Detroit
 
@@ -93,7 +126,7 @@ Chapter sequence for the rewrite. Headers or prose live in chapter files. No inv
 - Slime hatch / Alchemy; household / training as played
 - Murphy / Lewis / Metro West; OCP conflict; city war totals in completed-campaign notes
 - Red Queen; Murphy’s corporate restrictions lifted as played
-- **RoboCop challenge complete** — Peacekeeper track + **post-RoboCop clear package** (**boosted warzone**): **100,000,000 XP** → Lv80; **$10B**; world travel; Gamer’s Phone; gacha = unspent token counts on Inventory; fab alternatives. See `Inventory\Inventory - 04 RoboCop 2.md`. Private world already from RE2. Tribute perk rolls may still be pending.
+- **RoboCop challenge complete** — Peacekeeper track + **post-RoboCop clear package** (**boosted warzone**, difficulty/XP up per his wish): **100,000,000 XP** → **Lv80**; **$10B**; world travel; Gamer’s Phone; gacha = unspent token counts on Inventory; fab alternatives. See `Inventory\Inventory - 04 RoboCop 2.md`. Private world already from RE2. Tribute perk rolls may still be pending.
 - The Purge and Real Steel **revealed**; entered later (Ch6 / Ch7), not here
 - Private world already from RE2; **first open = Chapter 5 HQ**
 

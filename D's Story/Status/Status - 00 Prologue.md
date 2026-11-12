@@ -44,6 +44,8 @@ Health = END X 10
 SP = END X 10
 ```
 
+**Slots (Iris):** Primary = Arcanist; Prestige = Ard-draoi (**one prestige leveling at a time**; multi-standard after a standard hits Lv40); Production = **none until character Level 5**.
+
 Class gains: Arcanist +5 INT/WIS/END per level; Ard-draoi +5 END/INT/WIS per level.
 
 ## Racial perks
@@ -85,4 +87,4 @@ Class gains: Arcanist +5 INT/WIS/END per level; Ard-draoi +5 END/INT/WIS per lev
 
 - Horned Rabbit tutorial = **Chapter 1**
 - Detroit / first RoboCop = **Chapter 2**
-- Chef unlock and opening rewards land at Chapter 1 close, not this checkpoint
+- Production slot unlocks at Level 5 → Chef chosen in Chapter 1 (not this checkpoint). Opening rewards land at Chapter 1 close.

@@ -19,14 +19,14 @@ Exact assigned stat-point spend after Level 1 is **unprinted**; class/racial per
 
 ## Classes / level
 
-| Track | Rank |
-| --- | --- |
-| Character level | **9** |
-| Arcanist | 9/100 (shared XP) |
-| Ard-draoi | 9/100 (shared XP) |
-| Chef | 9/100 (unlocked at production slot; Processing + Preparing) |
+| Slot | Track | Rank |
+| --- | --- | ---: |
+| Character | Level | **9** |
+| Primary | Arcanist | 9/100 (shared XP) |
+| Prestige | Ard-draoi | 9/100 (shared XP; one prestige at a time) |
+| Production | Chef | 9/100 (unlocked at **character Level 5**; Processing + Preparing) |
 
-Class gains (per level): Arcanist +5 INT/WIS/END; Ard-draoi +5 END/INT/WIS; Chef +5 STR/DEX, +2 LCK. Racial: Nature Attunement +5 WIS; Grove Immortality +5 END; Knowledge of the Ancients +5 INT.
+Class gains (per level): Arcanist +5 INT/WIS/END; Ard-draoi +5 END/INT/WIS; Chef +5 STR/DEX, +2 LCK. Racial: Nature Attunement +5 WIS; Grove Immortality +5 END; Knowledge of the Ancients +5 INT. Multi-standard after Lv40 not yet open.
 
 ## Skills (known at this checkpoint)
 

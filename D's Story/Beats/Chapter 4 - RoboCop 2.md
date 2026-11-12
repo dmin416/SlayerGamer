@@ -188,7 +188,7 @@ Gacha: `Notes\References\Original Rewards\gacha-rules.md` (unspent counts on Inv
 - **Level 80** class/attrs: `Status\Status - 04 RoboCop 2.md`. Skill ranks still **proposed only** (`Notes\References\World Specific\02 RoboCop\D_RoboCop_Level80_Skill_Review.md`)
 - **Private world** unlocked at RE2; first open = **Beats Ch5 HQ**. Not a challenge mission.
 - **Post-RoboCop clear package** (**boosted warzone**): **100,000,000 XP**; **$10B**; world travel; Gamer’s Phone. Fab alternatives on Inventory.
-- **Gacha this clear (unspent):** Peacekeeper **+10 Common**; warzone **+1 Mythic**; bonus pool **+4 Common + 5 Rare + 1 Epic + 2 Legendary**. Running: **29C / 5R / 2E / 2L / 1M** + Perk×2 + Class×2 + box ledger. Live: `Inventory\Inventory - 04`. No pull results owned. Preferred when a warzone **Rare** is spent: **T-1000 Companion gem**.
+- **Gacha this clear (unspent):** Peacekeeper **+10 Common**; warzone **+1 Mythic**; bonus pool **+4 Common + 5 Rare + 1 Epic + 2 Legendary**. Running: **50C / 10R / 3E / 2L / 1M** + Ch1 meta + Perk×2 + Class×2 + RE7 + box ledger. Live: `Inventory\Inventory - 04`. No pull results owned. Preferred when a warzone **Rare** is spent: **T-1000 Companion gem**.
 
 ## Beat 18 — Worlds already revealed (not entered)
 
