@@ -45,7 +45,3 @@ Open work only. Delete a line when it’s done. No done-lists.
 - [ ] Purge / Real Steel rewards → fill Status-06/07 + Inventory-06/07
 - [ ] Ch8 Blomkamp + Ch9 Mad Max — Beats / Status / Inventory stubs
 - [ ] Timeline hygiene — Ch7 (and any other stubs) still show old LCK-only dump numbers; scrub to match gain-table recalc
-
-## Repo
-
-- [ ] Commit + push recent class / level / stat locks when you want them saved
