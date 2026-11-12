@@ -4,7 +4,9 @@ Live system reference for D. Source pattern: `Slayer Gamer Source\The_Slayer_Gam
 Catalog of Tavish’s spent pulls: `Original_Story_Gacha_Pulls.md`.  
 Kill / box loot (not snaps): `loot-rules.md`.
 
-**Flow:** *kill → body + on-person (always) → independent box roll (Luck/10000) + independent token roll (Luck/200) → on token hit: family → rarity (if any) → bank unspent → (on spend) snap tables.*
+**Flow:** *kill → body + on-person (always) → independent box roll (Luck/10000) + independent token roll (Luck/200) + independent kill-skill roll (half the token threshold) → on token hit: family → rarity (if any) → bank unspent → (on spend) snap tables.*
+
+Tokens are unattached to their source: a banked token never remembers the kill or world it came from.
 
 Gacha is **not** the corpse. Loot boxes and skill books are separate (`loot-rules.md`). No forced kill tokens or boxes.
 

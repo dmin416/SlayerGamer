@@ -27,7 +27,7 @@ Luck can still color **quality / quantity** of that haul (better cuts, denser po
 
 ### Separate rolls (not automatic with the body)
 
-No forced tokens. No forced boxes. Independent rolls per kill (can hit both, either, or neither).
+No forced tokens. No forced boxes. No forced skills. Independent rolls per kill (can hit any, all, or none).
 
 **Double or Nothing** (Luck ≥ 100): on a **failed** Luck-gated drop/upgrade roll, one immediate reroll of that check (`gacha-rules.md`). Creation LCK 77 does not have it yet.
 
@@ -35,7 +35,8 @@ No forced tokens. No forced boxes. Independent rolls per kill (can hit both, eit
 | --- | --- |
 | **Loot box** | **Luck / 10000** (d10000 ≤ thr). Elite **×3**, boss **×10** (cap 10000). Rarer than tokens on purpose. See §3. |
 | **Token** | **Luck / 200** (d1000 ≤ Luck×5). Elite **×3**, boss **×10**. Then family + rarity per `gacha-rules.md`. |
-| **Skill book / skill gain** | Separate. Dungeon scatter, rare drop, quest, or practice unlock. Killing something does **not** auto-grant a skill book from the corpse. |
+| **Kill skill** | **Half the token threshold** (d1000 ≤ floor(token thr ÷ 2), after the token cap). Same elite ×3 / boss ×10. A hit gives **one skill taken from the creature killed** (a Licker gives a Licker-style skill). Rarity uses the Skill row of the kill-drop rarity table (`gacha-rules.md`). Skill tokens are separate (the token roll). |
+| **Other skill sources** | Dungeon scatter, quest, or practice unlock. A corpse never grants a skill book. |
 | **Quest / clear packages** | Separate. Printed at objectives, not per body. |
 
 Biomass / DNA: only after a slime/symbiote is **bonded** in play (see §4).
@@ -103,7 +104,7 @@ A failed climb leaves the floor box.
 | Mythic | 6 | **19** |
 | God-tier | 7 | **22** |
 
-One slot = one named line (item, stack, or token) **unless slots are combined** (below). Mixed rarities inside a box are fine. Theme may lean toward the kill/world that dropped it (rabbit → plants, harvest, nature) and can still include skill books, perks, tokens, Funko-style figures (original almost always had a Funko in world crates).
+One slot = one named line (item, stack, or token) **unless slots are combined** (below). Mixed rarities inside a box are fine. **Kill boxes have a random origin:** contents can come from any world, game or franchise and do not follow the kill or the world it happened in. Skill books, perks, tokens and Funko-style figures can all appear (original almost always had a Funko in world crates). **Quest boxes are the opposite:** themed from the world and quest they came from.
 
 ### Combining slots
 
@@ -152,7 +153,8 @@ Trait examples once bonded: Slime (Liquid Body, Absorption); Licker (wall-crawl,
 
 - Body + on-person are the default kill result. Tokens and boxes are chance-only. No world or challenge grants a box per kill.
 - Companion tokens are **not** on the kill-token table; leave them to quest / world boxes.
-- Skill books are never assumed from the corpse alone.
+- A skill book is never assumed from the corpse. A kill skill is its own roll (see §2).
+- Tokens carry no source. A token is a token wherever it dropped; its kill or world has no effect on what it snaps into.
 - Symbiote rows stay off until bond exists on page.
 - Quest clear packages are tracked on Inventory / `gacha-rules.md`.
 - Tribute / Eternal Cycle is a separate kill track (Status), not a loot-box open.
