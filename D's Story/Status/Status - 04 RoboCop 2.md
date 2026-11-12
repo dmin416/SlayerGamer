@@ -1,7 +1,42 @@
 # Status — RoboCop 2
+
+Chapter **4**. **Start** = chapter open; **End** = chapter close.
+
+---
+
+## Start
+
+**Checkpoint:** Start of Chapter 4 — return to Detroit after RE2. Carry from RE2 End. Opens with RoboCop intro (Murphy back).
+
+**Level locked at 34.** Arcanist / Ard-draoi / Chef **34/100**. Multi-standard still closed until a standard hits 40 (will open during this war).
+
+## Carry
+
+Full sheet: `Status - 03 Resident Evil 2.md` (**End**).
+
+| Attribute | Base (RE2 End) |
+| --- | ---: |
+| STR | 165 |
+| DEX | 165 |
+| END | 515 |
+| INT | 515 |
+| WIS | 515 |
+| CHA | 20 |
+| LCK | 149 |
+
+HP / MP / SP: **5,150** each.
+
+## Notes
+
+- Clear target: boosted warzone → Level **100**. Wave 2 (Ranger / Gourmancer / Enchanter) opens on **End** below at **1/100**.
+
+---
+
+## End
+
 End of finished RoboCop (challenge close). **Skill numeric ranks are NOT finalized** (see `Notes\References\World Specific\02 RoboCop\D_RoboCop_Level80_Skill_Review.md`; retarget to Level 100 when approved).
 
-**Level locked at 100.** After RE2’s jump to 34, he returns to lottery-world Detroit. The war raises difficulty; clear is **boosted warzone** with higher XP (**100,000,000 XP** → +66 from 34), matching his wish for a harder second Detroit run. Arcanist / Ard-draoi / Chef hit **100/100**. Later locked bumps: Purge **+50**, Real Steel **+0**, Blomkamp **+50**, Mad Max **+50**; pacifist **+0**.
+**Level locked at 100.** After RE2’s jump to 34, he returns to lottery-world Detroit. The war raises difficulty; clear is **boosted warzone** with higher XP (**100,000,000 XP** → +66 from 34), matching his wish for a harder second Detroit run. Arcanist / Ard-draoi / Chef hit **100/100**. Later locked bumps: Purge **+50**, Real Steel **+0**, Blomkamp 1 **+50**, Blomkamp 2 **+25**, Mad Max 1 **+25**, Mad Max 2 **+25**; pacifist **+0**. Status sheets (## Start / ## End) from Ch5 onward recalc attrs from this baseline.
 
 ## Classes
 
@@ -46,7 +81,7 @@ Wave ranks every +25 and **per-class stat gains** live on `Timeline.md`. Do not 
 
 Creation lock still holds from Chapter 0: **Aeromancy** (Arcanist start); **Druid Magic**, **Bark Skin**, **Absorb Elements** (grove); **Primal Savagery / Wild Shape** (one transformation track). Creation had **no Enchanting**; **Enchanter** production begins here at 1/100 (separate from the old creation ban). Later Detroit unlocks (Static Grip / Electromancy, Spatial Magic) are practice unlocks, not creation carryovers.
 
-Numeric ranks at Level 100 are **proposed only** in `Notes\References\World Specific\02 RoboCop\D_RoboCop_Level80_Skill_Review.md` until approved (file still titled Level 80; treat as post-RoboCop candidates). RE2-close baseline remains on `Status - 03`.
+Numeric ranks at Level 100 are **proposed only** in `Notes\References\World Specific\02 RoboCop\D_RoboCop_Level80_Skill_Review.md` until approved (file still titled Level 80; treat as post-RoboCop candidates). RE2-close baseline remains on `Status - 03 Resident Evil 2.md` (End).
 
 ## Clear rewards (on sheet)
 

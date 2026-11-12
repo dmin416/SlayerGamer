@@ -224,7 +224,7 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 
 - First open of RE2-unlocked private world (void mini-planet)
 - Founding grove planted; he makes his own nature land
-- Status / Inventory: `Status - 05`, `Inventory - 05`
+- Status / Inventory: `Status - 05 HQ.md`, `Inventory - 05`
 - Level stays **100** (+0)
 - Next: Purge solo — Level 100 difficulty spike; global anarchy year (household stays at HQ)
 
@@ -237,9 +237,9 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 - **Level 100** raises overall difficulty
 - Mixed **Purge-movie + war** world; **global anarchy ~1 year** (not one soft night)
 - Household at HQ; loadout from RoboCop close
-- Clear level: **100 → 150** (**+50**); wave 2 → **50/100**; **LCK 1,016**
+- Clear level: **100 → 150** (**+50**); wave 2 → **50/100**; **LCK 526** (gain-table recalc)
 - Rewards unprinted until Quest Reward Remap locks
-- Status / Inventory: `Status - 06`, `Inventory - 06`
+- Status / Inventory: `Status - 06 The Purge.md`, `Inventory - 06`
 
 ---
 
@@ -251,9 +251,9 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 - Semifinals: **nearly destroys Atom, still loses** (experience over hardware); she **helps repair Atom**
 - **Second round** reorders the field; **Sherry beats Zeus**
 - **World quest:** help **Atom claim the championship**
-- Clear level: stays **150** (**+0**); wave 2 still **50**; **LCK 1,016**
+- Clear level: stays **150** (**+0**); wave 2 still **50**; **LCK 526**
 - Rewards unprinted until Quest Reward Remap locks
-- Status / Inventory: `Status - 07`, `Inventory - 07`
+- Status / Inventory: `Status - 07 Real Steel.md`, `Inventory - 07`
 - RE7 token still unspent unless assigned
 - Next: **Chapter 8 Blomkamp 1** → **9 Blomkamp 2** → **10 Mad Max 1** → **11 Mad Max 2**
 
@@ -263,8 +263,8 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 
 `Story\Chapter 8.md` / `Beats\Chapter 8 - Blomkamp 1.md` — After Real Steel. **Title TBD** (District 9 / Elysium / Chappie).
 
-- Clear level: **150 → 200** (**+50**); wave 2 → **100**; wave 3 opens at **1**; **LCK 1,766**
-- Status / Inventory: `Status - 08`, `Inventory - 08`
+- Clear level: **150 → 200** (**+50**); wave 2 → **100**; wave 3 opens at **1**; **LCK 776**
+- Status / Inventory: `Status - 08 Blomkamp 1.md`, `Inventory - 08`
 - Next: **Chapter 9 Blomkamp 2**
 
 ---
@@ -273,8 +273,8 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 
 `Story\Chapter 9.md` / `Beats\Chapter 9 - Blomkamp 2.md` — Second Blomkamp. **Title TBD** (remaining after Ch8).
 
-- Clear level: **200 → 225** (**+25**); wave 2 **100**; wave 3 → **25**; **LCK ~2,134**
-- Status / Inventory: `Status - 09`, `Inventory - 09`
+- Clear level: **200 → 225** (**+25**); wave 2 **100**; wave 3 → **25**; **LCK 896**
+- Status / Inventory: `Status - 09 Blomkamp 2.md`, `Inventory - 09`
 - Next: **Chapter 10 Mad Max 1**
 
 ---
@@ -283,8 +283,8 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 
 `Story\Chapter 10.md` / `Beats\Chapter 10 - Mad Max 1.md` — After both Blomkamp visits. First Mad Max. Later visit (lottery home was always RoboCop; Mad Max was never started as home). **Title TBD**.
 
-- Clear level: **225 → 250** (**+25**); wave 3 → **50**; **LCK 2,501**
-- Status / Inventory: `Status - 10`, `Inventory - 10`
+- Clear level: **225 → 250** (**+25**); wave 3 → **50**; **LCK 1,021**
+- Status / Inventory: `Status - 10 Mad Max 1.md`, `Inventory - 10`
 - Next: **Chapter 11 Mad Max 2**
 
 ---
@@ -293,11 +293,12 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 
 `Story\Chapter 11.md` / `Beats\Chapter 11 - Mad Max 2.md` — Second Mad Max. **Title TBD** (remaining after Ch10).
 
-- Clear level: **250 → 275** (**+25**); wave 3 → **75**; **LCK ~2,869**
-- Status / Inventory: `Status - 11`, `Inventory - 11`
+- Clear level: **250 → 275** (**+25**); wave 3 → **75**; **LCK 1,146**
+- Status / Inventory: `Status - 11 Mad Max 2.md`, `Inventory - 11`
 - Later chapters: heading only until assigned
 
 ## Chapter files
 
 - Prose: `Story\`
 - Beats / Status / Inventory aligned: 0 Prologue → 1 Rabbit → 2 RoboCop 1 → 3 RE2 → 4 RoboCop 2 → 5 HQ → 6 Purge → 7 Real Steel → **8 Blomkamp 1** → **9 Blomkamp 2** → **10 Mad Max 1** → **11 Mad Max 2**
+- Status naming: `Status - NN Title.md` with `## Start` / `## End` (attrs from Timeline gain table + Status-04 baseline)

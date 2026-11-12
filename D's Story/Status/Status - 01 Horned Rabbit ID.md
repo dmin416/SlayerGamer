@@ -1,4 +1,27 @@
 # Status — Horned Rabbit ID
+
+Chapter **1**. **Start** = chapter open; **End** = chapter close.
+
+---
+
+## Start
+
+**Checkpoint:** Start of Chapter 1 — enter Horned Rabbit Instant Dungeon. Carry from Prologue End.
+
+**Level locked at 1.** Classes: Arcanist / Ard-draoi **1/100**. Production **none** until character Level **5**.
+
+## Carry
+
+Full sheet: Status - 00 Prologue.md (**End**).
+
+## Notes
+
+- Do not apply RE2 / RoboCop endgame levels here.
+
+---
+
+## End
+
 **Checkpoint:** End of **Chapter 1 — Horned Rabbit ID**. Level **9**. Chef unlocked. Transfer to Detroit / Chapter 2 follows. Do not apply later RE2/Detroit endgame levels here.
 
 Exact assigned stat-point spend after Level 1 is **unprinted**; class/racial per-level gains apply. Do not invent a full numerical sheet beyond what’s locked.

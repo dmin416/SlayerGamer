@@ -1,4 +1,27 @@
 # Status — RoboCop 1
+
+Chapter **2**. **Start** = chapter open; **End** = chapter close.
+
+---
+
+## Start
+
+**Checkpoint:** Start of Chapter 2 — Detroit transfer after rabbit ID. Carry from Horned Rabbit End.
+
+**Level locked at 9.** Arcanist / Ard-draoi / Chef **9/100**. Civilian stretch begins.
+
+## Carry
+
+Full sheet: Status - 01 Horned Rabbit ID.md (**End**). Exact free-point spend still **unprinted**.
+
+## Notes
+
+- Do not apply RE2 Level **34** or RoboCop Level **100** here.
+
+---
+
+## End
+
 **Checkpoint:** End of **Chapter 2 — first RoboCop** (Murphy hospitalization). Pre–Challenge Token snap. Do not apply RE2 Level **34** or RoboCop Level **100** here.
 
 **Level locked at 9.** Civilian Detroit stretch; no meaningful combat XP (same shape as original early AoT downtime).

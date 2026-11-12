@@ -18,6 +18,7 @@ Standing house rules for play/prose: `D's Story\rules.md`.
 | `Continuity\Quest Reward Remap.md` | Tavish → D clear-package remap (working) |
 
 Opening / rabbit ID: `Beats\Chapter 0–1`, `Status - 00/01`, `Inventory - 01`, `References\World Specific\01 Horned Rabbit ID\World info.md`.  
+Status convention: one file per chapter `Status - NN Title.md` with `## Start` / `## End` (Ch5–11 attrs recalced from Timeline + Status-04).  
 Later stubs: Blomkamp 1–2 = Ch8–9; Mad Max 1–2 = Ch10–11.
 
 ## References

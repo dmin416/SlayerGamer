@@ -1,4 +1,27 @@
 # Status — Resident Evil 2
+
+Chapter **3**. **Start** = chapter open; **End** = chapter close.
+
+---
+
+## Start
+
+**Checkpoint:** Start of Chapter 3 — Common Challenge Token snap into RE2 (Mizoil). Carry from RoboCop 1 End (hospital).
+
+**Level locked at 9.** Arcanist / Ard-draoi / Chef **9/100**. Detroit paused unfinished.
+
+## Carry
+
+Checkpoint: Status - 02 RoboCop 1.md (**End**). Attrs still unprinted beyond rabbit/class rules (free-point spend unprinted).
+
+## Notes
+
+- Kill XP prints `?` and does not drive the bump.
+
+---
+
+## End
+
 End of RE2 Remake challenge. Compact sheet from RE2 completion reveal. Mad Max never started (lottery = RoboCop).
 
 **Level locked at 34** (+25 from 9). RE2 was cleared **before** finishing RoboCop, so this is the big mid-campaign jump (**5,000,000 XP**, normal package). Kill XP prints `?` and does not drive the bump. Next: return to Detroit / war → Status-04 Level 100.

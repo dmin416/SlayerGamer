@@ -1,4 +1,25 @@
 # Status — Prologue
+
+Chapter **0**. **Start** = chapter open; **End** = chapter close.
+
+---
+
+## Start
+
+**Checkpoint:** Start of Chapter 0 — Press Start / multiverse lottery. Character creation **not finished**.
+
+**Level:** none printed until creation completes. No classes locked yet.
+
+## Notes
+
+- Creation finishes in **End** below.
+- Lottery world locked as **RoboCop** (Mad Max never home).
+- Full identity / racial / creation skills print at End.
+
+---
+
+## End
+
 End of Chapter 0: character creation finished. Lottery world RoboCop. Tutorial Instant Dungeon initializing. Detroit not yet.
 
 ## Identity

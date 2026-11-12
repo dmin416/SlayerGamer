@@ -33,7 +33,7 @@ Open work only. Delete a line when it’s done. No done-lists.
 ## Sheets / numbers
 
 - [ ] **Post-RoboCop skill ranks** — approve or rewrite `D_RoboCop_Level80_Skill_Review.md` for **Level 100**; until then Status-04 skill ranks stay proposed-only
-- [ ] **Post-100 attr sheets** — recalc Purge / Blomkamp / Mad Max / later from Timeline gain table + racial
+- [x] **Post-100 attr sheets** — Status Ch5–11 (## Start / ## End) recalced from Timeline gain table + racial (baseline Status-04). Old LCK-dump numbers scrubbed on Timeline/Remap.
 - [ ] **Wave 2–6 skills / flavor** — stat gains locked; still need skills / fantasy text
 - [ ] **Ch1 free-point spend** — still unprinted; do not invent mid-ID LCK until locked
 
@@ -44,6 +44,6 @@ Open work only. Delete a line when it’s done. No done-lists.
 - [ ] Ch3 companion-close loot notes after that audit
 - [ ] Ch3 remake night — finish play/prose vs Beats party pattern + remake outline
 - [ ] Ch5 grove growth on the page (benefits stay aspirational until grown)
-- [ ] Purge / Real Steel rewards → fill Status-06/07 + Inventory-06/07
+- [ ] Purge / Real Steel rewards → fill Status-06/07 End gacha + Inventory-06/07
 - [ ] Ch8–9 Blomkamp spines + Ch10–11 Mad Max spines — fill when titles locked (stubs exist)
-- [ ] Timeline hygiene — Ch7 (and any other stubs) still show old LCK-only dump numbers; scrub to match gain-table recalc
+- [x] Timeline hygiene — old LCK-only dump numbers scrubbed to gain-table recalc

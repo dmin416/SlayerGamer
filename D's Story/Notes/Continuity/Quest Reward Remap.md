@@ -12,7 +12,7 @@ Mark rows **LOCKED** / **PROPOSED** / **PARKED**. Edit here, then push into Beat
 
 D is **Ard-draoi / Arcanist / Chef** (wave 2: Ranger / Gourmancer / Enchanter) — not a Doom Slayer. Interests: plants, gardening, animals/companions/symbiotes, cooking, grove land, Aff/Bond, tech that serves life (not rage kits).
 
-**Luck:** creation LCK **77** → RE2 **149** (Double or Nothing) → RoboCop close **281** → Timeline Purge ~**1,016** / Blomkamp 1 ~**1,766** / Blomkamp 2 ~**2,134** / Mad Max 1 ~**2,501** / Mad Max 2 ~**2,869**. Kill tokens (Luck/200) and boxes (Luck/10000) will already rain in later worlds. Clear packages should lean **nature / companion / craft / land**, not “another Common dump to compensate for bad Luck,” and should avoid Slayer / wrath / god-kill toys.
+**Luck (gain-table recalc):** creation LCK **77** → RE2 **149** (Double or Nothing) → RoboCop close **281** → Purge / Real Steel **526** → Blomkamp 1 **776** → Blomkamp 2 **896** → Mad Max 1 **1,021** → Mad Max 2 **1,146**. Kill tokens (Luck/200) and boxes (Luck/10000) still rise; clear packages should lean **nature / companion / craft / land**, not “another Common dump to compensate for bad Luck,” and should avoid Slayer / wrath / god-kill toys.
 
 **Ch1–5 stay as locked.** Only Ch6+ need help.
 
