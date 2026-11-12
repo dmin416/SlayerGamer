@@ -6,7 +6,7 @@ Chapter **11**. **Start** = chapter open; **End** = chapter close.
 
 ## Start
 
-**Checkpoint:** Start of Chapter 11 — Mad Max 2 (title TBD). Carry from Mad Max 1.
+**Checkpoint:** Start of Chapter 11 — Mad Max 2 (**game**, 2015). Carry from Mad Max 1 (movie).
 
 **Level locked at 250.** Wave 1 **100/100**. W2 **Ranger / Gourmancer / Enchanter 100/100**. W3 **50/100** (49 applied ranks). Class scroll ×2 + Class tokens C/E/L still **held**.
 
@@ -59,7 +59,7 @@ Carry from prior sheets until audited. Creation lock unchanged: Aeromancy; Druid
 
 ## End
 
-**Checkpoint:** End of Chapter 11 — Mad Max 2. Clear bump **+25** (250 → 275).
+**Checkpoint:** End of Chapter 11 — Mad Max 2 (**game**). Clear bump **+25** (250 → 275).
 
 **Level locked at 275.** Wave 1 **100/100**. W2 **Ranger / Gourmancer / Enchanter 100/100**. W3 **75/100** (74 applied ranks). Class scroll ×2 + Class tokens C/E/L still **held**.
 

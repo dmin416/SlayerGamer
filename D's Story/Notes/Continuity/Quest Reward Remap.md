@@ -91,27 +91,29 @@ High Luck note: a full anarchy year will rain kill tokens/boxes; clear package s
 | **XP** | **omit** (Timeline +25) |
 | **Status** | PROPOSED — lock which film is Ch9 |
 
-### Ch10 — Mad Max 1 (wasteland; later visit)
+### Ch10 — Mad Max 1 (movie; later visit)
 
 | | |
 | --- | --- |
+| **Title** | **LOCKED — movie** (Fury Road / film wasteland board) |
 | **Tavish source (prefer)** | **Hungry Like the Wolf!** numbers |
 | **Tavish verbatim** | Wolf: Race First Werewolf (Epic); Silver Dagger (U); Pelt of Lycaon (L); Wolf Loot Box (Epic) |
 | **Proposed D package** | **Werewolf race → drop**. Beast Bond / pelt cloak; ritual/harvest blade or scrap; Epic nature/beast crate |
 | **Avoid** | Forced lycanthropy; Slayer wasteland conqueror set |
 | **XP** | **omit** (Timeline +25) |
-| **Status** | PROPOSED — lock which film is Ch10 |
+| **Status** | PROPOSED — package only (title locked) |
 
-### Ch11 — Mad Max 2 (wasteland; second visit)
+### Ch11 — Mad Max 2 (game; second visit)
 
 | | |
 | --- | --- |
+| **Title** | **LOCKED — Mad Max (2015) game** |
 | **Tavish source (prefer)** | leftover Wolf pieces and/or **Hero of Gluttony** Chef lean |
 | **Tavish verbatim** | Pig God: Gourmet World ID; Restaurant front-door enchant; **Hell’s Kitchen** (+ any Wolf leftovers not used Ch10) |
-| **Proposed D package** | Optional: **Hell’s Kitchen** + HQ kitchen front-door; craft/road survival lean per locked title |
+| **Proposed D package** | Optional: **Hell’s Kitchen** + HQ kitchen front-door; craft / Magnum Opus / scrap-road lean |
 | **Avoid** | Duplicate Beast Bond if already Ch10; Slayer conqueror set |
 | **XP** | **omit** (Timeline +25) |
-| **Status** | PROPOSED — lock which film is Ch11 |
+| **Status** | PROPOSED — package only (title locked) |
 
 ---
 
@@ -151,8 +153,8 @@ _Pick these so rows can go LOCKED._
 4. **Real Steel:** ODST → **drop** or **Grove plating**?
 5. **Blomkamp pair + order:** which two of District 9 / Elysium / Chappie = Ch8 vs Ch9?
 6. **Blomkamp 1 vs 2 packages:** Rapture sanctuary on which; Columbia craft on which?
-7. **Mad Max pair + order:** which two films / eras = Ch10 vs Ch11?
-8. **Mad Max 1 vs 2 packages:** Wolf/Beast Bond on which; **Hell’s Kitchen** + HQ kitchen door on which?
+7. ~~Mad Max pair + order~~ — **LOCKED:** Ch10 movie → Ch11 game (2015)
+8. **Mad Max 1 vs 2 packages:** Wolf/Beast Bond on movie; **Hell’s Kitchen** + HQ kitchen door on game?
 
 ---
 

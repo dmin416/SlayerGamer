@@ -1,6 +1,6 @@
-# Chapter 11: Mad Max 2
+# Chapter 11: Mad Max 2 (game)
 
-After Mad Max 1. Second Mad Max challenge. **Title TBD** (remaining after Ch10 pick).
+After Mad Max 1 (movie). Second Mad Max challenge — **the game** (Mad Max, 2015).
 
 Source: `Beats\Chapter 11 - Mad Max 2.md`.
 
@@ -8,11 +8,11 @@ Source: `Beats\Chapter 11 - Mad Max 2.md`.
 
 ## Leave HQ / open
 
-Activate second Mad Max world. Who travels = play.
+Activate Mad Max game world. Who travels = play.
 
 ## Challenge spine
 
-Fill from Remap / play. Wasteland texture as setting menu.
+Fill from Remap / play. Game wasteland texture (Magnum Opus / strongholds / war parties) as setting menu.
 
 ## Challenge close / return to HQ
 

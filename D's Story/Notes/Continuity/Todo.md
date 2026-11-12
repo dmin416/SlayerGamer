@@ -25,7 +25,7 @@ Open work only. Delete a line when it’s done. No done-lists.
 - [ ] **Fab alternative** — grove / Umbrella-NEST / OCP archive / Red Queen / slime / Chef complex
 - [ ] **Tribute perk rolls ×2** — pending post-RoboCop; do not invent outcomes
 - [ ] **Blomkamp titles** — Ch8 + Ch9; pick **two** of District 9 / Elysium / Chappie and order them
-- [ ] **Mad Max titles** — Ch10 + Ch11; pick which two Mad Max films / eras and order them
+- [x] **Mad Max titles** — Ch10 = **movie**; Ch11 = **game** (2015)
 - [ ] **Name the slime**
 - [ ] **Perfected Motorcycle Vehicle Token** — activate or leave parked
 - [ ] **RE7 challenge token** — still unspent; place when you want
@@ -45,5 +45,6 @@ Open work only. Delete a line when it’s done. No done-lists.
 - [ ] Ch3 remake night — finish play/prose vs Beats party pattern + remake outline
 - [ ] Ch5 grove growth on the page (benefits stay aspirational until grown)
 - [ ] Purge / Real Steel rewards → fill Status-06/07 End gacha + Inventory-06/07
-- [ ] Ch8–9 Blomkamp spines + Ch10–11 Mad Max spines — fill when titles locked (stubs exist)
+- [ ] Ch8–9 Blomkamp spines — fill when titles locked (stubs exist)
+- [ ] Ch10–11 Mad Max spines — titles locked (movie → game); fill beats from Remap / play
 - [x] Timeline hygiene — old LCK-only dump numbers scrubbed to gain-table recalc

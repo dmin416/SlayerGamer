@@ -6,7 +6,7 @@ Chapter **10**. **Start** = chapter open; **End** = chapter close.
 
 ## Start
 
-**Checkpoint:** Start of Chapter 10 — Mad Max 1 (title TBD). Carry from Blomkamp 2.
+**Checkpoint:** Start of Chapter 10 — Mad Max 1 (**movie**). Carry from Blomkamp 2.
 
 **Level locked at 225.** Wave 1 **100/100**. W2 **Ranger / Gourmancer / Enchanter 100/100**. W3 **25/100** (24 applied ranks). Class scroll ×2 + Class tokens C/E/L still **held**.
 
@@ -59,7 +59,7 @@ Carry from prior sheets until audited. Creation lock unchanged: Aeromancy; Druid
 
 ## End
 
-**Checkpoint:** End of Chapter 10 — Mad Max 1. Clear bump **+25** (225 → 250).
+**Checkpoint:** End of Chapter 10 — Mad Max 1 (**movie**). Clear bump **+25** (225 → 250).
 
 **Level locked at 250.** Wave 1 **100/100**. W2 **Ranger / Gourmancer / Enchanter 100/100**. W3 **50/100** (49 applied ranks). Class scroll ×2 + Class tokens C/E/L still **held**.
 

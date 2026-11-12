@@ -105,8 +105,8 @@ Chef: +5 Dex, Str and +2 Luck per level.
 | Ch7 Real Steel clear | **150** | **+0** |
 | Ch8 Blomkamp 1 clear | **200** | **+50** (title TBD) |
 | Ch9 Blomkamp 2 clear | **225** | **+25** (title TBD) |
-| Ch10 Mad Max 1 clear | **250** | **+25** (title TBD; not lottery home) |
-| Ch11 Mad Max 2 clear | **275** | **+25** (title TBD) |
+| Ch10 Mad Max 1 clear | **250** | **+25** (**movie**; not lottery home) |
+| Ch11 Mad Max 2 clear | **275** | **+25** (**game**, 2015) |
 
 Shared XP through RoboCop across Arcanist / Ard-draoi / Chef. After 100, maxed classes stay put; character level climbs on assigned clear bumps.
 

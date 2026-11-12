@@ -22,8 +22,8 @@ Narrative pacing after original: early kills spike, civilian life stalls, challe
 | Ch7 Real Steel clear | **150** | **+0** (no level bump) |
 | Ch8 Blomkamp 1 clear | **200** | **+50**. First Blomkamp (title TBD); wave 3 opens |
 | Ch9 Blomkamp 2 clear | **225** | **+25**. Second Blomkamp (title TBD) |
-| Ch10 Mad Max 1 clear | **250** | **+25**. First Mad Max (title TBD; not lottery home) |
-| Ch11 Mad Max 2 clear | **275** | **+25**. Second Mad Max (title TBD) |
+| Ch10 Mad Max 1 clear | **250** | **+25**. **Movie** (not lottery home) |
+| Ch11 Mad Max 2 clear | **275** | **+25**. **Game** (Mad Max, 2015) |
 
 ### Post-100 world clears (locked)
 
@@ -281,17 +281,17 @@ Pattern: most classes **+5 / +5 / +5** per class level (same budget as Arcanist)
 
 ## Chapter 10 — Mad Max 1
 
-`Story\Chapter 10.md` / `Beats\Chapter 10 - Mad Max 1.md` — After both Blomkamp visits. First Mad Max. Later visit (lottery home was always RoboCop; Mad Max was never started as home). **Title TBD**.
+`Story\Chapter 10.md` / `Beats\Chapter 10 - Mad Max 1.md` — After both Blomkamp visits. **Mad Max (movie)**. Later visit (lottery home was always RoboCop; Mad Max was never started as home).
 
 - Clear level: **225 → 250** (**+25**); wave 3 → **50**; **LCK 1,021**
 - Status / Inventory: `Status - 10 Mad Max 1.md`, `Inventory - 10`
-- Next: **Chapter 11 Mad Max 2**
+- Next: **Chapter 11 Mad Max 2 (game)**
 
 ---
 
-## Chapter 11 — Mad Max 2
+## Chapter 11 — Mad Max 2 (game)
 
-`Story\Chapter 11.md` / `Beats\Chapter 11 - Mad Max 2.md` — Second Mad Max. **Title TBD** (remaining after Ch10).
+`Story\Chapter 11.md` / `Beats\Chapter 11 - Mad Max 2.md` — **Mad Max (2015 game)**.
 
 - Clear level: **250 → 275** (**+25**); wave 3 → **75**; **LCK 1,146**
 - Status / Inventory: `Status - 11 Mad Max 2.md`, `Inventory - 11`

@@ -1,8 +1,8 @@
-# Beats — Chapter 11: Mad Max 2
+# Beats — Chapter 11: Mad Max 2 (game)
 
-**Live order:** … → 10 Mad Max 1 → **11 Mad Max 2**.  
+**Live order:** … → 10 Mad Max 1 (movie) → **11 Mad Max 2 (game)**.  
 Story: `Story\Chapter 11.md`. Status/Inventory: `11`.  
-**Scope:** Second Mad Max challenge. **Title TBD** (remaining Mad Max film / era after Ch10).  
+**Scope:** Second Mad Max challenge. **Game** visit (Mad Max, 2015 — Avalanche).  
 **Party:** Not locked solo. HQ home base.  
 **Level on clear:** **250 → 275** (**+25**). Wave 3 → **75**.  
 **Rewards:** unprinted until Quest Reward Remap locks.  
@@ -10,19 +10,19 @@ Story: `Story\Chapter 11.md`. Status/Inventory: `11`.
 
 ---
 
-## Beat 1 — Leave HQ / open Mad Max 2
+## Beat 1 — Leave HQ / open Mad Max 2 (game)
 
-- After Mad Max 1; activate second Mad Max world
+- After Mad Max 1 (movie); activate Mad Max **game** world
 - Who travels vs who stays = play
 
 ## Beat 2 — Drop-in / wasteland board
 
-- Setting menu from locked title (TBD)
+- Game board: Magnum Opus / Chumbucket / strongholds (Jeet, Gutgash, Pink Eye) / war parties / scrap convoy texture
 - Inventory available; no auto-stomp unless play breaks the scene
 
 ## Beat 3 — Main challenge spine
 
-- Fill from Remap / play
+- Fill from Remap / play (drive / scrap / stronghold — TBD)
 
 ## Beat 4 — Challenge close / return to HQ
 
