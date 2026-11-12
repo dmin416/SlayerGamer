@@ -1,5 +1,13 @@
 # RoboCop (Detroit): Kill Loot Audit
 
+## Combined totals (humans plus machines)
+
+| | Humans (486) | Machines (908) | Total |
+| --- | ---: | ---: | ---: |
+| Boxes (held unopened) | 14 | 29 | **43** |
+| Tokens (unspent) | 454 | 857 | **1,311** |
+| Kill skills | 287 | 538 | **825** |
+
 Audit `20261112c`. **486** credited human kills from the six-week war (`Beats/Chapter 4`) at **Effective Luck 149** with Double or Nothing. LCK 149 holds for the whole war: the Level 100 jump (LCK 281) lands with the clear package, not from kill XP.
 
 | Group | Kills |
