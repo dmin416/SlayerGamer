@@ -29,6 +29,7 @@ The old `Multiverse` pack was deleted (2026-11-11). Live rewrite material is und
 | `Notes\Timeline.md` | **0 Prologue → 1 Rabbit → 2 RoboCop1 → 3 RE2R → 4 RoboCop again → 5 Purge** |
 | `Notes\Ideas.md` | Parking lot (not canon until pulled into Timeline/Story) |
 | `Notes\Todo.md` | Open rewrite decisions; one at a time |
+| `Notes\Remaining Work.md` | Big backlog (Story / Status / Inventory / Unverified) |
 | `Inventory\Chapter 0.md` | End of Chapter 0 |
 | `Inventory\Chapter 1.md` | End of Rabbit ID (filled) |
 | `Inventory\Chapter 2.md` | First RoboCop / hospital end (stub) |
@@ -76,6 +77,4 @@ The old `Multiverse` pack was deleted (2026-11-11). Live rewrite material is und
 
 ## Suggested next pass
 
-1. Keep Chapter 0 + authoritative opening as the baseline.
-2. Fill Chapter 2 hospital-end Status/Inventory when audited.
-3. Audit played rewards into Status/Inventory by chapter (Unverified saves = checklist; order = rewrite Timeline).
+See `Notes\Remaining Work.md` for the full backlog. Short path: Ch1 Story → Ch2 Story + sheets → Unverified audit into Ch3/Ch4 sheets → Purge beats.
